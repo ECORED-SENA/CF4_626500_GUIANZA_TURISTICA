@@ -1,18 +1,19 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Composición del texto narrativo',
+    descripcionCurso:
+      'Todas las actividades del ser humano están marcadas por la necesidad de expresar ideas y pensamientos, las mismas, se estructuran en mensajes que buscan llegar a otros para su interpretación, a través de diferentes narrativas. La comunicación a través de estas narrativas es de vital importancia en los servicios turísticos para lograr llevar mensajes planificados para todas sus audiencias.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
+      // {
+      //   clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+      //   imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+      // },
+      // {
+      //   clases: ['banner-principal-decorativo-2'],
+      //   imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      // },
     ],
   },
   menuPrincipal: {

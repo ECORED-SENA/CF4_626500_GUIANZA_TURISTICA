@@ -4,146 +4,312 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 3
-      h1 Texto narrativo creativo
-    p.mb-5(data-aos='fade-right') Toda expresión escrita que tiene como esencia la creatividad e imaginación pertenece a la familia de la escritura creativa que cuenta con tres recursos narrativos:  descripción, secuencias de acción y diálogo.
+        span 5
+      h1 Escritura creativa
     .row.justify-content-center.mb-5
-      .col-lg-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema3/1.jpg', alt='')
-      .col-lg-6
-        p.mb-4 Las formas del texto narrativo que requieren creatividad son variadas, sin importar si se escriben en prosa o verso, cada una tiene espíritu propio, es decir, cuenta con características que la definen, entre ellas se enlistan:  
-        ul.lista-ul--color.ms-5
-          li
-            i.vineta
-            | Las poesías.
-          li
-            i.vineta
-            | Los cuentos. 
-          li
-            i.vineta
-            | El teatro.
-          li
-            i.vineta
-            | Los guiones. 
-          li
-            i.vineta
-            | Las novelas. 
-          li
-            i.vineta
-            | La leyenda
-          li
-            i.vineta
-            | El mito 
-          li
-            i.vineta
-            | La biografía
-          li
-            i.vineta
-            | El periodístico:  crónica, noticia
-        .cajon.color-primario(style='background-color: #FFD667 ').p-4.mb-4
-          p.mb-0 Las historias pueden tener como base la estructura de alguno de los recursos anteriormente mencionados, en importante que el periodo creativo esté acompañado de inspiración y también de técnicas para su desarrollo. 
-    .row.justify-content-center.mb-5
-      .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema3/2.svg', alt='')
-      .col-lg-11 
-        p 
-          span.r--3 El guía se motiva a la escritura con base en lecturas de historia, geografía, cultura y otros temas para que el guion o texto que necesite elaborar este acorde con el público objetivo y el contexto en donde va a ser relatada.
-          br
-          br
-          |El conocimiento de las técnicas de escritura, arriesgarse a crear, hacer paneo de emociones y tener creatividad hacen parte de las cualidades para innovar de forma escrita.  
-    .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
-      h4.mb-0 Componentes de la narrativa creativa
-    .row.justify-content-center.aling-items-center.mb-5
       .col-lg-6.mb-lg-0.mb-3
-        p Para el desarrollo de escritura creativa se hace indispensable tener en cuenta el concepto de género pues cada uno tiene una característica que lo define, recordando que, la estructura de un escrito es común a varios géneros, pero que específicamente en la narración se integran los componentes necesarios para que la historia sea contada con calidad y técnica.  
+        .cajon.color-primario(style='background-color: #ffd667').p-4.mb-4
+          p.mb-0 La escritura creativa es aquella que posee sus propias características y formas, ubicándose muy aparte de la escritura periodística, académica, técnica, o literaria. La escritura creativa es original y única, lo que hace que se aleje sustancialmente de las escrituras convencionales existentes.
+        p.mb-5(data-aos='fade-right') Esta escritura permite crear, inventar, y mostrar temas novedosos, que buscan cumplir con un objetivo, buscando a través de su originalidad captar la atención del receptor y causar en éste un efecto que lleve a la vivencia de momentos o generar experiencias. 
           br
           br
-          |Los componentes de la narración los podemos ver a continuación, en la siguiente tabla:
-      .col-lg-6: img(src='@/assets/curso/temas/tema3/3.jpg', alt='')
+          | Veamos a continuación, varios elementos de la escritura creativa:
+      .col-lg-6: img(src='@/assets/curso/temas/tema5/1.jpg', alt='')
+    TabsC.color-primario.mb-5
+      .py-3.py-md-4(titulo="Características de la escritura creativa")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            p Tenemos características de la escritura creativa:
+            p Es original: es un género libre y espontaneo, el autor aporta un punto de vista fresco, distinto, novedoso, por lo tanto no existe un texto o guion igual, logrando además causar una sensación de innovación en el receptor.
+              br
+              br
+              |No imita otros géneros: es precisamente por su originalidad, repentismo y autenticidad, que los productos de la escritura creativa están totalmente alejados de esquemas de la escritura tradicional.
+              br
+              br
+              |Revela el talento y la imaginación: La creatividad y la imaginación caracterizan al autor  quien revela su personalidad, sus objetivos.
+          .col-lg-5: img.mb-5(data-aos='zoom-in-up')(src='@/assets/curso/temas/tema5/2.jpg', alt='')
+      .py-3.py-md-4(titulo="Tipos de escritura creativa")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            p Los tipos de escritura creativa se resumen en: 
+            ul.lista-ul--color.ms-4
+              li
+                i.vineta
+                | Poesía
+              li
+                i.vineta
+                | Cuento
+              li
+                i.vineta
+                | Teatro
+              li
+                i.vineta
+                | Novela
+              li
+                i.vineta
+                | Relato
+              li
+                i.vineta
+                | Ensayo
+              li
+                i.vineta
+                | Guiones
+          .col-lg-5: img.mb-5(data-aos='zoom-in-up')(src='@/assets/curso/temas/tema5/3.jpg', alt='')
+      .py-3.py-md-4(titulo="Diferencias entre escritura académica y la creativa")
+          p La escritura creativa tiene diferencias de la escritura académica, entre las que se describen las siguientes:
+          .tabla-a.tabla-editada.mb-5
+            table
+              thead
+                tr
+                  th(style='background-color: #ffb338; color: black') Hola
+                  th(style='background-color: #2b6e17; color: black')
+              tbody
+                tr
+                  td La escritura académica es propia del ámbito universitario y científico.
+                  td La escritura creativa se sale de los esquemas de la escritura tradicional como puede ser la escritura académica, por ejemplo.
+
+                tr
+                  td Su finalidad es didáctica, casi siempre.
+                  td La originalidad, y la imaginación son dos de sus armas más características.
+                tr
+                  td Persuadir, argumentar e informar son claves a la hora de confeccionar este tipo de escrituras.
+
+                  td Los autores que la llevan a cabo tienden a inventarse temas, situaciones o cosas generando así la sensación de novedad e innovación.
+                tr
+                  td Utiliza una serie de recursos muy elaborados.
+                  td La escritura creativa no imita ningún género, ni sigue un patrón clásico de escritura.
+      .py-3.py-md-4(titulo="Finalidad Creativa")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            p La escritura incentiva la imaginación al tener una finalidad creativa lo cual permite:
+            p El desarrollo de procesos de aprendizaje: generación de empatía con el receptor del mensaje y además motiva el pensamiento creativo, elementos esenciales en el quehacer del guía de turismo.
+              br
+              | Mejora el vocabulario y léxico: así como ampliar el conocimiento y aplicaciones de nuevas expresiones.
+              br
+              | Al crear, mejora la capacidad de concentración, y a ser más reflexivo a la hora de pensar 
+              br
+              | Transmite a través de la información vivencias y experiencias a los receptores.
+              br
+              | Crear textos desde la imaginación y con la utilización de la propia invención.
+
+
+          .col-lg-5: img.mb-5(data-aos='zoom-in-up')(src='@/assets/curso/temas/tema5/4.jpg', alt='')
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-6
+        p 
+          span.r--3 El proceso creativo está relacionado con dos aspectos humanos: el cerebral y la habilidad o chispa creativa, 
+          | que técnicamente, se convierte en la forma creativa de expresar de forma escrita o verbal.  
+          br
+          br
+          |Los expertos sustentan que el proceso creativo necesita de un desarrollo técnico con las siguientes recomendaciones y tips a tener en cuenta para lograr un efecto con sensaciones a quien lo escuche o lea: 
+      .col-lg-6 
+        SlyderF.mb-5.slyder-100(columnas="col-lg-6 col-xl-6")
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' style='width: 130px')
+            .tarjeta(style='background-color: #e1f3d7').w-100
+              .text-center.p-4
+                h4.text-center Planear  rutina
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/tema5/6.svg' alt='AvatarTop' style='width: 130px')
+            .tarjeta(style='background-color: #e1f3d7').w-100
+              .text-center.p-4
+                h4.text-center Practicar, escribir a diario
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/tema5/7.svg' alt='AvatarTop' style='width: 130px')
+            .tarjeta(style='background-color: #e1f3d7').w-100
+              .text-center.p-4
+                h4.text-center Leer textos ejemplo
+
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/tema5/8.svg' alt='AvatarTop' style='width: 130px')
+            .tarjeta(style='background-color: #e1f3d7').w-100
+              .text-center.p-4
+                h4.text-center Escribir las ideas
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/tema5/9.svg' alt='AvatarTop' style='width: 130px')
+            .tarjeta(style='background-color: #e1f3d7').w-100
+              .text-center.p-4
+                h4.text-center Hacer una estructura antes de escribir
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/tema5/10.svg' alt='AvatarTop' style='width: 130px')
+            .tarjeta(style='background-color: #e1f3d7').w-100
+              .text-center.p-4
+                h4.text-center Utilizar figuras literarias
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/tema5/11.svg' alt='AvatarTop' style='width: 130px')
+            .tarjeta(style='background-color: #e1f3d7').w-100
+              .text-center.p-4
+                h4.text-center Escribir para llamar la atención del lector
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/tema5/12.svg' alt='AvatarTop' style='width: 130px')
+            .tarjeta(style='background-color: #e1f3d7').w-100
+              .text-center.p-4
+                h4.text-center Hacer proceso de empatía con la historia
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-1.col-6.mb-lg-0.mb-3
+        img(src='@/assets/curso/temas/tema5/13.svg', alt='')
+      .col-lg-11 Cada técnica necesita de unas acciones concretas, en el caso de la escritura, debe seleccionarse el tiempo o una franja diaria, en un lugar con luz, ambiente cómodo y tener cerca lo que genera inspiración;  dicen los expertos que la practica hace al maestro, aprovechar los tiempos libres, escribir diariamente y usando normas gramaticales y estructuras semánticas es una ayuda para desarrollo de la habilidad;  igualmente, la lectura de textos de autores reconocidos y de los temas a escribir, ayuda a la estructuración semántica y creativa de fluidez. 
+    .row.justify-content-center.mb-5
+      .col-lg-6
+        p Depender de la inspiración puede ser poco efectivo, siempre tenga a mano una libreta y escriba ideas que ayuden a la elaboración del texto, igual, el ejercicio permanente de pensar y escribir genera la posibilidad de riqueza textual y variada; el plan de escritura y ordenamiento de un texto en una línea temporal y que permita definir el nudo o situaciones de la historia, esto dará coherencia y cohesión al texto.  La metáfora, paradoja, ironía entre otras figuras literarias le da belleza, sorpresa y pertinencia al escrito, evitar siempre los adjetivos o palabras exageradas o enfáticas que no aportan a la historia.
+          br
+          br
+          |El lector o receptor, sus expectativas y necesidades deben ser parte del escrito o la historia, así se conecta con el escrito y desde luego que la empatía, ayuda a crear personajes y situaciones comprensible y reales para él. 
+      .col-lg-6: img(src='@/assets/curso/temas/tema5/14.jpg', alt='')  
+    .cajon.color-primario(style='background-color: #ffd667').p-4.mb-4
+      p.mb-0 Finalmente, el proceso creativo y los pasos para armar una historia o relatar un suceso necesita de un camino metodológico que además permita llegar al reconocimiento de la propia posibilidad de desarrollar la escritura, paso a paso, de forma atenta y dedicada.  
+    p.mb-5(data-aos='fade-right') Cada etapa del trabajo es crucial para llegar al resultado:
+    TabsA.color-acento-contenido.mb-5
+      .tarjeta.p-4(titulo="Introspección / Acopio" style='background-color:#d0eac3')
+        .row.justify-content-center.align-items-center
+          .col-lg-10.mb-lg-0.mb-3
+            h5 Introspección / Acopio
+            p Es un momento de encuentro con el yo creativo, escribiendo ideas, dibujando, activando la imaginación. 
+
+          .col-lg-2: img(src='@/assets/curso/temas/tema5/15.svg', alt='')
+      .tarjeta.p-4(titulo="Primer borrador" style='background-color:#d0eac3')
+        .row.justify-content-center.align-items-center
+          .col-lg-10.mb-lg-0.mb-3
+            h5 Primer borrador
+            p Decantar las ideas escribiendo un primer texto muy generoso y amplio con posibilidades de ajustar y trabajar.
+          .col-lg-2: img(src='@/assets/curso/temas/tema5/16.svg', alt='')
+      .tarjeta.p-4(titulo="Corrección y divulgación" style='background-color:#d0eac3')
+        .row.justify-content-center.align-items-center
+          .col-lg-10.mb-lg-0.mb-3
+            h5 Corrección y divulgación
+            ul.lista-ul--color
+              li
+                i.vineta2
+                | Pulir el primer borrador, corregir lenguaje, oírlo en voz alta y ajustar.
+              li
+                i.vineta2
+                | Presentar o publicar.
+
+          .col-lg-2: img(src='@/assets/curso/temas/tema5/17.svg', alt='')
+    .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
+      h4.mb-0 Marketing de contenidos para el turismo
+    p.mb-5(data-aos='fade-right') El marketing o técnicas para comercializar productos y servicios, hace parte de la creatividad y saberes que en el turismo se desarrollan habitualmente.  
+      br
+      br
+      |Los estudiosos del marketing y sus estrategias sobre contenidos recomiendan que al implementarlas los contenidos e imagen deben ser equilibrados, claros y de impacto para aprovechar las numerosas ventajas de la internet, como:
+    .row.justify-content-center.mb-5
+      .col-lg-7
+        AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta acordeon-inactivo"  )
+          .div(titulo="Reconocimiento fácil de producto y servicios a ofrecer")
+            p La publicación en internet es el mejor aliado; servicios ofrecidos en una tienda virtual que funciona 24 horas, 7 días a la semana.   
+              br
+              br
+              |Los contenidos para clientes potenciales y que demandan, conocen y buscan sobre sus intereses, deben encontrar en el espacio creado, las ventajas competitivas de lo ofrecido.
+          .div(titulo="Posicionamiento y conquista de la autoridad en el mercado")
+            p La presencia en Internet permite dar visibilidad a un amplio público y ante la competencia; se necesita un portafolio de servicios y productos de la empresa ya sea propia o que sea un empleado.  
+              br
+              br
+              |Para convertirse en autoridad del mercado es indispensable, la buena imagen y la generación de confiabilidad de lo que allí se presenta e informa, lo que da el poder de negociación concretar las acciones de fidelizar el cliente efectivo y llegar al potencial con experiencias y calificación del servicio o producto, clave del mercadeo 
+
+          .div(titulo="Sostenibilidad y reducción de gastos")
+            p Los contenidos de mercadeo son costosos y generan gastos en papel y propaganda que, aunque es importante, generar alto valor económico.  
+              br
+              br
+              |El marketing por internet es una estrategia económica y que puede reducir costos de inversión en la comercialización. Parte de ser empresario o trabajar para una empresa, implica responsabilidad en el uso de los recursos ya sean financieros o materiales 
+
+          .div(titulo="Acelera el ciclo de ventas")
+            p El tiempo que la empresa invierte entre contactar inicialmente al cliente,  hasta el cierre de la venta, y todo lo que acontece en ese espacio, son etapas de un ciclo de venta.
+              br
+              br
+              |El marketing  de contenidos dentro de este espacio de tiempo, es veloz y altamente efectivo porque el mensaje llega a cada persona y además se siente realizado para la individualidad, lo que parece que es personalizado y de fácil acceso lo que impacta al cliente y sus decisiones ubicándolo de manera ágil, en el momento o etapa de compra.
+    p.mb-5(data-aos='fade-right') Todo lo anterior reafirma la importancia de la escritura creativa en procesos como el marketing que se pueden publicar en diferentes tipos de canales como:  
+    .row.justify-content-center.mb-5
+      .col-lg-10: img(src='@/assets/curso/temas/tema5/19.svg', alt='')
+    .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
+      h4.mb-0 #[i Storytelling, storyscaping, storydoing]
+    p.mb-5(data-aos='fade-right') Las técnicas para materializar la escritura creativa no solo en marketing si no en otros escenarios como el de generar experiencia cliente en el turismo se diseñan al tener en cuenta que, desde la generación de ideas hasta la divulgación, el lenguaje inspirador es esencial.  Relacionado a que el marketing incluye la emoción como parte del objetivo, creando vínculos afectivos entre todas las personas o clientes, para volverlos protagonistas de las historias por lo que el uso de técnicas que lo permitan como el storytelling, storyscaping, storydoing están de moda, haciendo parte de la forma de presentar contenidos de la narrativa creativa o branded content.
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .cajon.color-primario(style='background-color:#ffd667 ').p-4.mb-4
+          p El storytelling, es una palabra del idioma inglés compuesta por: “story” que traduce historia y “telling”, que traduce contar.  Varios autores concuerdan que es un arte que a través de la creación, descripción, desarrollo y adaptación de historias que se escriben con elementos de la narrativa como personajes, contextos o ambientes, nudo o conflicto y un mensaje o moraleja, cuentan con una estructura que presentan el inicio, medio y fin, de un relato, con el objetivo de enclavar un mensaje llevando a la conexión con el receptor, lector u oyente a nivel emocional, concepto que es propicio porque el guía, es un facilitador de experiencias.
+        p.mb-5(data-aos='fade-right') La originalidad o impronta personal de quien la realiza o sea el autor se deriva de la experiencia y la perspectiva con que éste la narra permitiendo que las buenas historias conduzcan al público a lo largo de una jornada y que ésta sea inolvidable.  
+          br
+          br
+          |Los elementos del storytelling como técnica de narrativa creativa son:  
+
+      .col-lg-4: img(src='@/assets/curso/temas/tema5/20.jpg', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Tabla 1.
-      span Componentes con narración
+      h5 Tabla 4. 
+      span Elementos del #[i storytelling]
     .tabla-a.tabla-editada.mb-5
       table
+        caption Leyenda de la tabla
         thead
           tr
-            th.fw-bold.text-center Componentes
-            th.text-center Definición/Función
-            th Consiste en
+            th(colspan='2') Elementos del #[i storytelling]
         tbody
           tr
-            td.fw-bold.text-center El Narrador
-            td.text-center No es lo mismo que el autor. Su función es llevar el ritmo de la narración, el que es variado.
-            td - Narrador omnisciente: usa estilo de narración en tercera persona; él conoce a los personajes y sus pensamientos, así como su pasado, presente y futuro y hasta los deseos más íntimos. 
-              br
-              | - Narrador testigo: cuenta la historia como espectador y en ocasiones como protagonista secundario, él estuvo allí como observador y, no necesariamente como participante, utiliza el monólogo interior.  
-              br
-              | - Narrador protagonista: narra la historia como personaje principal, es decir en primera persona, narra los hechos vividos personalmente.
+            td.text-center.fw-bold Mensaje
+            td
+              p El mensaje está compuesto por dos partes:
+              ul.lista-ul--color1.ms-3
+                li
+                  i.fas.fa-circle.fa-xs.me-2
+                  | Story: la historia y el mensaje que serán transmitidos. 
+
+                li
+                  i.fas.fa-circle.fa-xs.me-2
+                  | Telling: la forma como ese mensaje es presentado. 
+              p Se usan buscando equilibrio lingüístico en el texto y estos componentes, en otras palabras, si el mensaje es fuerte, puede surtir el efecto aun teniendo un telling débil; de otra parte, si el telling, es débil o plano difícilmente se salvará el mensaje, pese a que se utilicen técnicas de calidad. 
 
           tr
-            td.fw-bold.text-center Los Personajes
-            td.text-center Seres reales o imaginarios que están en una obra.
-            td - Protagonista o personaje principal de la obra.
-              br
-              |- Antagonista o personaje de oposición al protagonista: lo enfrenta, necesario para que haya conflicto.
-              br
-              |- Secundario: es importante mas no imprescindible, acompaña la acción y ayuda a la realización de la historia.
-              br
-              |- Nominal: corresponde a aquellos personajes de fantasía, son nombrados en el texto sin participación en la trama.
+            td.text-center.fw-bold Personaje
+            td El personaje, puede ser real o ficticio, pero es en quien recae toda la acción de la historia.
+          tr
+            td.text-center.fw-bold Ambiente o contexto
+            td Puede ser real o ficticio, es el lugar donde sucede la historia. Es importante hacer una excelente descripción para posibilitar que el lector, oyente o receptor vivencie la historia y el momento lo más cercano posible. 
+          tr
+            td.text-center.fw-bold Trama/Nudo/Conflicto
+            td 
+              p La trama, nudo o conflicto es el elemento que atrae y atrapa el interés del lector, oyente o receptor. Se afirma que es el desafío motivante del receptor, lo mantiene atento y al integrarse disfruta de toda la jornada.
+                br
+                | Este elemento debe ser elaborado con calidad, profundidad y evitando una solución facilista, pues esto crea desconexión con el lector, oyente o receptor. Por lo tanto, la trama, nudo o el conflicto debe ser elaborado de forma compleja, con expectativa para mantener la atención durante el desarrollo de las actividades y dejar sensaciones variadas hasta mucho tiempo después. 
+    p.mb-5(data-aos='fade-right')
+      span.r--3 El storyscaping busca conectar al receptor con una historia, 
+      | esta técnica pretende que el lector, oyente o receptor viva la historia, se busca un mundo en el que el receptor no solo participe y se relacione sintiéndose identificado, sino que es protagonista y parte importante de la historia, la puede ayudar a construir o deconstruir, se apropia de ella.
+    .row.justify-content-center.mb-5
+      .col-lg-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema5/21.jpg', alt='')
+      .col-lg-7
+        p En cuanto al uso en el marketing, Darren McColl y Gaston Legorburu – 2014, sostienen que:
+        div(style='background-color: #ffe6a1').p-4.mb-4
+          .row.justify-content-center
+            .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema5/22.svg', alt='')
+            .col-lg-11 
+              p.fst-italic.mb-0 #[b "Storyscaping:] Stop Creating Ads, Start Creating Worlds"
+                br
+                | #[b "Storyscaping:] deje de crear anuncios, comience a crear mundos"
+        p.mb-0 De otra parte, la técnica storydoing aplicada en el turismo tiene como objetivo permitir que el viajero tenga contacto con otras cotidianidades diferentes a la suya y otorgar la oportunidad de que sean transformadas en experiencia de vida. Este renacimiento del turismo hacia la construcción y mejora de la identidad del viajero se edifica a través de sentir nuevas emociones, lo que implica que las historias y experiencias se diseñan desde la base personal de la percepción creada en la mente del turista como respuesta a la comparación entre las expectativas del viaje o imaginario y su experiencia concreta, es decir, la experiencia realizada. 
+          br
+          br
+          | Esta técnica 
+          span.r--3 es efectiva para el desarrollo en la concepción del turismo alternativo puesto que desde este enfoque el turista deja de ser un sujeto pasivo para convertirse en activo, 
+          | al interactuar con el entorno que visita convirtiendo esta, en una experiencia única y totalmente emocional.
+    p.mb-5(data-aos='fade-right') El storydoing (story: historia – doing: haciendo) es interactividad pura, pues se reconoce que transmitir una historia y unos valores y hacer que el participante empatice con ella (storytelling), llevando a la demostración de las ventajas sobre migrar a la acción incluyente en donde el receptor puede ser protagonista y ser parte de la historia, haciendo historia (storydoing).  
+      br
+      br
+      | Existen diferencias a tener en cuenta:   
+    .row.justify-content-center.mb-5
+      .col-lg-4
+        .tarjeta.text-center(style='background-color: #ffe6a1').p-4.h-100
+          img.m-auto.mb-3(src='@/assets/curso/temas/tema5/23.svg', alt='' style='width: 119px')  
+          h5 Storytelling
+          p.mb-0 Simplemente cuenta una historia al receptor
+          hr.my-1
+          p Storytelling busca contar historias
+      .col-lg-4
+        .tarjeta.text-center(style='background-color: #ffe6a1').p-4.h-100
+          img.m-auto.mb-3(src='@/assets/curso/temas/tema5/24.svg', alt='' style='width: 119px')  
+          h5 Storydoing
+          p.mb-0 Crea experiencias para el receptor
+          hr.my-1
+          p Storydoing las lleva a cabo
 
-          tr
-            td.fw-bold.text-center Los Tiempos
-            td.text-center Es el referente histórico, de momentos con elementos sociales o culturales 
-            td - Tiempo Cronológico o propio de la historia:  es la línea que corresponde al tiempo real, al paso de las horas, los días; también se da con fechas específicas.
-              br
-              | - Tiempo Psicológico o tiempo del relato: difícil de determinar con claridad cuánto tiempo transcurre. Generalmente ocurre en momentos de angustia o dolor, o al evocar tiempo pasado por un recuerdo y es difícil identificar cuánto tardó dicho recuerdo.
-
-          tr
-            td.fw-bold.text-center La Secuencia
-            td.text-center Hilo narrativo, orden de los hechos
-            td - Lineal: aparece cuando la narración sigue un orden lógico de aparición de los hechos. Por ejemplo: nacer, crecer, morir. Un terremoto, destrucción, auxilio y reconstrucción.
-              br
-              | - Perturbada: este tipo de secuencia se da cuando el orden lógico se encuentra alterado. En el ejemplo anterior, sería si se empieza con la reconstrucción y luego la narración se va devolviendo al momento del terremoto.
-
-          tr
-            td.fw-bold.text-center Los Registros narrativos
-            td.text-center Son los usos del lenguaje que el narrador registra en sus personajes, sirve para dar veracidad al relato 
-            td - Culto: utiliza lenguaje elevado propio de personas letradas.
-              br
-              | - Vulgar: uso de palabras comunes y parte de la sabiduría popular. 
-              br
-              | - El poético: uso de versos y figuras literarias.
-              br
-              | - El técnico: uso de términos propios de alguna profesión.
-              br
-              | - El campesino: uso de palabras costumbristas o propias de su cotidianidad.
-          tr
-            td.fw-bold.text-center Los Estilos Narrativos
-            td.text-center Formas en que el narrador expone lo hablado
-            td Directo: reproduciendo las palabras textuales, tal y como están escritas para el personaje; indicada por la marca textual del guion de diálogo o las comillas. 
-              br
-              | El guion muestra las palabras exactas del diálogo entre los personajes. Las comillas, representan los monólogos o soliloquios y también la citación de palabras exactas de una tercera persona, cuando se requiere.
-              br
-              | Indirecto, se usa cuando se cuenta lo que otro dijo, pensó o murmuró, de manera indirecta. 
-
-          tr
-            td.fw-bold.text-center Los Espacios
-            td.text-center Son los diferentes niveles, sitios o lugares de una obra literaria que se caracteriza por ser pluriespacial. 
-            td - Físico o real: donde se desarrollan los hechos.
-              br
-              | - Ético: los valores o la carencia de ellos según el texto.
-              br
-              | - Social: clases sociales reflejadas en la obra.
-              br
-              | - Económico: descripción estatus económico.
-              br
-              | - Político: papel de la política en el texto.
-              br
-              | - Legislativo: leyes que gobiernan a los personajes.
-              br
-              | - Religioso: creencias, ritos religiosos de algún tipo, estos se analizarán en este espacio.
-              br
-              | - Ecológico: puede ser que una obra describa el contexto natural en el que se dan las acciones, esto permite referirse a la ecología.
-              br
-              | - Hay otros como simbólico, abierto, cerrado y utilitario.
+ 
 
 
 

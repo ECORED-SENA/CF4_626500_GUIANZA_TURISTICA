@@ -4,146 +4,112 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 3
-      h1 Texto narrativo creativo
-    p.mb-5(data-aos='fade-right') Toda expresión escrita que tiene como esencia la creatividad e imaginación pertenece a la familia de la escritura creativa que cuenta con tres recursos narrativos:  descripción, secuencias de acción y diálogo.
-    .row.justify-content-center.mb-5
-      .col-lg-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema3/1.jpg', alt='')
+        span 6
+      h1 Derecho de autor
+    .bloque-texto-g.editado.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/1.jpg')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 En los últimos años es conocido en todos los escenarios el uso de las normas APA (American Psychological Association) para la presentación de trabajos con una estructura universal para publicaciones, lo que permite que el siglo XXI presente de manera prolija, alta producción académica y de calidad.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-6: img(src='@/assets/curso/temas/tema6/2.jpg', alt='')
       .col-lg-6
-        p.mb-4 Las formas del texto narrativo que requieren creatividad son variadas, sin importar si se escriben en prosa o verso, cada una tiene espíritu propio, es decir, cuenta con características que la definen, entre ellas se enlistan:  
-        ul.lista-ul--color.ms-5
-          li
-            i.vineta
-            | Las poesías.
-          li
-            i.vineta
-            | Los cuentos. 
-          li
-            i.vineta
-            | El teatro.
-          li
-            i.vineta
-            | Los guiones. 
-          li
-            i.vineta
-            | Las novelas. 
-          li
-            i.vineta
-            | La leyenda
-          li
-            i.vineta
-            | El mito 
-          li
-            i.vineta
-            | La biografía
-          li
-            i.vineta
-            | El periodístico:  crónica, noticia
-        .cajon.color-primario(style='background-color: #FFD667 ').p-4.mb-4
-          p.mb-0 Las historias pueden tener como base la estructura de alguno de los recursos anteriormente mencionados, en importante que el periodo creativo esté acompañado de inspiración y también de técnicas para su desarrollo. 
+        .cajon.color-primario.p-4.mb-4(style='background-color: #ffd667')
+          .row.justify-content-center
+            .col-lg-3.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/3.svg', alt='')
+            .col-lg-9
+              p El guía de turismo no es ajeno al uso de las normas para presentar trabajos, así como tampoco se distancia de la necesidad de que todo trabajo escrito, investigación, guion entre otros, no esté exento de la aplicación y cumplimiento de las normas legales sobre derechos de autor.
+        p.mb-5(data-aos='fade-right') La norma APA integra en sus parámetros, el lineamiento para citar material que requiere protección de acuerdo con la clase o tipo según el documento.  Dentro de los conceptos a tener en cuenta se habla del poseedor de la obra con derechos exclusivos, por ejemplo, que permite que la producción pueda ser comercializada en una parte o todo el contenido.  La diversidad y amplitud de la protección de derechos de autor está definida a tipos de producciones como los trabajos audiovisuales, programas de televisión, películas, videos online, las composiciones en música o grabaciones de sonido, conferencias, artículos y libros.  El arte está incluido en obras de teatro o musicales, carteles y anuncios publicitarios, cuadros y todo tipo de trabajo visual. 
     .row.justify-content-center.mb-5
-      .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema3/2.svg', alt='')
-      .col-lg-11 
-        p 
-          span.r--3 El guía se motiva a la escritura con base en lecturas de historia, geografía, cultura y otros temas para que el guion o texto que necesite elaborar este acorde con el público objetivo y el contexto en donde va a ser relatada.
+      .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/4.svg', alt='')  
+      .col-lg-11
+        p El derecho de autor o #[i copyright] y #[i copywriter] con intencionalidad de vender, divulgar o promocionar en la web, es universal, cada país tramita su legalidad a través de decretos y resoluciones que describen su regulación de acuerdo con tratados internacionales, de hecho, la Constitución de los países en general, cuentan con un articulado sobre la protección a la propiedad artística o literaria.
+    .row.justify-content-center.mb-5
+      .col-lg-6
+        p.mb-5(data-aos='fade-right') Entre los aspectos para tener en cuenta para aplicar los derechos de autor se encuentran:
+        ul.lista-ul--color.ms-3
+          li
+            i.vineta
+            | Aprender a citar una fuente o referencia según las normas de APA. 
+
+          li
+            i.vineta
+            | Leer e interpretar los avisos legales que presentan la delimitación o condiciones. 
+          li
+            i.vineta
+            | Respetar el contenido original. 
+          li
+            i.vineta
+            | Conocer la ley y cumplirla, el no hacerlo puede llevar a sanciones pecuarias e inclusive la cárcel. 
+          li
+            i.vineta
+            | Identificar reglamentación de registro de marcas y patentes, hace parte de la profesionalidad. 
+          li
+            i.vineta
+            | Cumplir con los derechos de autor incluido en el internet.
+      .col-lg-6: img(src='@/assets/curso/temas/tema6/5.jpg', alt='')
+    .cajon.color-primario.p-4.mb-4(style='background-color: #ffd667')
+      p.mb-0 El manejo y uso de la información en la web cambia a medida que la seguridad se ha convertido en el factor más importante de la comunicación digital.  La protección de datos como práctica natural y normal del ejercicio de recopilar información de otro, es parte del reto de la comunicación en internet, por lo que hay que tener en cuenta cuando se recoge información por formularios digitales, tener en cuenta la legislación al tratamiento de datos e incluir anotaciones igualmente, aclarando las condiciones de este manejo;  pasa igual con fotografías, audios y videos con personas especialmente, menores de edad, la cual tiene una reglamentación estricta a tener en cuenta como la autorización de mayores responsables de los niños que firman autorización para que la imagen de ellos pueda ser publicada o divulgada abiertamente.
+    .row.justify-content-center.mb-5
+      .col-lg-6: img(src='@/assets/curso/temas/tema6/6.jpg', alt='')
+      .col-lg-6 
+        p.mb-5(data-aos='fade-right') Las publicaciones por Facebook Ads o Ad Manager o lo relacionado con mejoramiento de las marcas y marketing digital mediado en canales como YouTube, Twitter, Tik Tok, o Instagram, tienen condiciones de uso que deben ser conocidas para no contravenir las leyes, al usar texto en la web para promocionar productos o servicios empresariales, además de tener buena gramática la publicación debe ser apropiada a la audiencia y con alta credibilidad, también el dosificar la información es respetuoso con los usuarios, así como no utilizar lenguajes muy estilizados o con vocabulario de difícil comprensión.
           br
           br
-          |El conocimiento de las técnicas de escritura, arriesgarse a crear, hacer paneo de emociones y tener creatividad hacen parte de las cualidades para innovar de forma escrita.  
-    .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
-      h4.mb-0 Componentes de la narrativa creativa
-    .row.justify-content-center.aling-items-center.mb-5
-      .col-lg-6.mb-lg-0.mb-3
-        p Para el desarrollo de escritura creativa se hace indispensable tener en cuenta el concepto de género pues cada uno tiene una característica que lo define, recordando que, la estructura de un escrito es común a varios géneros, pero que específicamente en la narración se integran los componentes necesarios para que la historia sea contada con calidad y técnica.  
-          br
-          br
-          |Los componentes de la narración los podemos ver a continuación, en la siguiente tabla:
-      .col-lg-6: img(src='@/assets/curso/temas/tema3/3.jpg', alt='')
+          | El éxito de los mensajes también dependerá de usar los famosos mecanismos cerebrales que permite que el cliente potencial decida rápido por la compra u obtención de su interés, estos tips comunicativos se aplican con ejercicios que el diseñador del mensaje realiza teniendo en cuenta que los mensajes se basan en la comprensión del público objetivo. Es indispensable usar técnicas como storytelling o historias de la empresa y clientes, compartiendo experiencias como miedos, angustias, desafíos o conquistas que conectan con los clientes potenciales.
+    .row.justify-content-center.mb-5
+      .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/7.svg', alt='')  
+      .col-lg-11
+        p Los estilos de citación y referenciación están marcados por las normas APA, como anteriormente se afirmó, al hacer uso de información que se ha obtenido de otros autores, es ético, responsable y legal reconocerlo como referente. Por esta razón en la elaboración de un trabajos académicos o científicos se requiere de la inclusión de una bibliografía sistemática y estructurada, es la que se incluyen dos elementos fundamentales:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Tabla 1.
-      span Componentes con narración
-    .tabla-a.tabla-editada.mb-5
-      table
-        thead
-          tr
-            th.fw-bold.text-center Componentes
-            th.text-center Definición/Función
-            th Consiste en
-        tbody
-          tr
-            td.fw-bold.text-center El Narrador
-            td.text-center No es lo mismo que el autor. Su función es llevar el ritmo de la narración, el que es variado.
-            td - Narrador omnisciente: usa estilo de narración en tercera persona; él conoce a los personajes y sus pensamientos, así como su pasado, presente y futuro y hasta los deseos más íntimos. 
-              br
-              | - Narrador testigo: cuenta la historia como espectador y en ocasiones como protagonista secundario, él estuvo allí como observador y, no necesariamente como participante, utiliza el monólogo interior.  
-              br
-              | - Narrador protagonista: narra la historia como personaje principal, es decir en primera persona, narra los hechos vividos personalmente.
+      h5 Figura 1. 
+      span Elementos estructurados de citación autores
+    .row.justify-content-center.mb-5
+      .col-lg-8: img(src='@/assets/curso/temas/tema6/8.svg', alt='')
+    p.mb-5(data-aos='fade-right') Finalmente, hay que recordar que:
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5
+        .row.justify-content-center.mb-3.align-items-center
+          .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n1.svg', alt='')
+          .col-lg-10
+            p El derecho de autor ampara obras, no ideas
+        hr
+        .row.justify-content-center.mb-3.align-items-center
+          .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n2.svg', alt='')
+          .col-lg-10
+            p Crear una obra de cualquier tipo ya es derecho del autor
+        hr
+        .row.justify-content-center.mb-3.align-items-center
+          .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n3.svg', alt='')
+          .col-lg-10
+            p Las creaciones colectivas de personas naturales tienen el derecho de autor
+        hr
+        .row.justify-content-center.mb-3.align-items-center
+          .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n4.svg', alt='')
+          .col-lg-10
+            p Si cede a derechos de autor legalice los fines, usos y aplicaciones para la obra
+      .col-lg-5
+        .row.justify-content-center.mb-3.align-items-center
+          .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n5.svg', alt='')
+          .col-lg-10
+            p Los derechos de autor patrimoniales son los que se ceden por reproducción, adaptación o publicación 
+        hr
+        .row.justify-content-center.mb-3.align-items-center
+          .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n6.svg', alt='')
+          .col-lg-10
+            p Es diferente ser dueño de una obra que tener derecho de autor
+        hr
+        .row.justify-content-center.mb-3.align-items-center
+          .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n7.svg', alt='')
+          .col-lg-10
+            p Es importante utilizar con autorización los trabajos de otros
+        hr
+        .row.justify-content-center.mb-3.align-items-center
+          .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n8.svg', alt='')
+          .col-lg-10
+            p El derecho de autor rige para actividades creativas no en realizaciones técnicas
 
-          tr
-            td.fw-bold.text-center Los Personajes
-            td.text-center Seres reales o imaginarios que están en una obra.
-            td - Protagonista o personaje principal de la obra.
-              br
-              |- Antagonista o personaje de oposición al protagonista: lo enfrenta, necesario para que haya conflicto.
-              br
-              |- Secundario: es importante mas no imprescindible, acompaña la acción y ayuda a la realización de la historia.
-              br
-              |- Nominal: corresponde a aquellos personajes de fantasía, son nombrados en el texto sin participación en la trama.
-
-          tr
-            td.fw-bold.text-center Los Tiempos
-            td.text-center Es el referente histórico, de momentos con elementos sociales o culturales 
-            td - Tiempo Cronológico o propio de la historia:  es la línea que corresponde al tiempo real, al paso de las horas, los días; también se da con fechas específicas.
-              br
-              | - Tiempo Psicológico o tiempo del relato: difícil de determinar con claridad cuánto tiempo transcurre. Generalmente ocurre en momentos de angustia o dolor, o al evocar tiempo pasado por un recuerdo y es difícil identificar cuánto tardó dicho recuerdo.
-
-          tr
-            td.fw-bold.text-center La Secuencia
-            td.text-center Hilo narrativo, orden de los hechos
-            td - Lineal: aparece cuando la narración sigue un orden lógico de aparición de los hechos. Por ejemplo: nacer, crecer, morir. Un terremoto, destrucción, auxilio y reconstrucción.
-              br
-              | - Perturbada: este tipo de secuencia se da cuando el orden lógico se encuentra alterado. En el ejemplo anterior, sería si se empieza con la reconstrucción y luego la narración se va devolviendo al momento del terremoto.
-
-          tr
-            td.fw-bold.text-center Los Registros narrativos
-            td.text-center Son los usos del lenguaje que el narrador registra en sus personajes, sirve para dar veracidad al relato 
-            td - Culto: utiliza lenguaje elevado propio de personas letradas.
-              br
-              | - Vulgar: uso de palabras comunes y parte de la sabiduría popular. 
-              br
-              | - El poético: uso de versos y figuras literarias.
-              br
-              | - El técnico: uso de términos propios de alguna profesión.
-              br
-              | - El campesino: uso de palabras costumbristas o propias de su cotidianidad.
-          tr
-            td.fw-bold.text-center Los Estilos Narrativos
-            td.text-center Formas en que el narrador expone lo hablado
-            td Directo: reproduciendo las palabras textuales, tal y como están escritas para el personaje; indicada por la marca textual del guion de diálogo o las comillas. 
-              br
-              | El guion muestra las palabras exactas del diálogo entre los personajes. Las comillas, representan los monólogos o soliloquios y también la citación de palabras exactas de una tercera persona, cuando se requiere.
-              br
-              | Indirecto, se usa cuando se cuenta lo que otro dijo, pensó o murmuró, de manera indirecta. 
-
-          tr
-            td.fw-bold.text-center Los Espacios
-            td.text-center Son los diferentes niveles, sitios o lugares de una obra literaria que se caracteriza por ser pluriespacial. 
-            td - Físico o real: donde se desarrollan los hechos.
-              br
-              | - Ético: los valores o la carencia de ellos según el texto.
-              br
-              | - Social: clases sociales reflejadas en la obra.
-              br
-              | - Económico: descripción estatus económico.
-              br
-              | - Político: papel de la política en el texto.
-              br
-              | - Legislativo: leyes que gobiernan a los personajes.
-              br
-              | - Religioso: creencias, ritos religiosos de algún tipo, estos se analizarán en este espacio.
-              br
-              | - Ecológico: puede ser que una obra describa el contexto natural en el que se dan las acciones, esto permite referirse a la ecología.
-              br
-              | - Hay otros como simbólico, abierto, cerrado y utilitario.
 
 
 
@@ -167,4 +133,10 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.bloque-texto-g.editado
+  justify-content: flex-start
+  .bloque-texto-g__img
+    left: auto
+    right: 0
+</style>

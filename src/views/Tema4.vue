@@ -68,7 +68,7 @@
       table
         thead
           tr
-            th.fw-bold.text-center(rowspan='3') Acentuación
+            th.fw-bold.text-center(colspan='3') Acentuación
             
         tbody
           tr
@@ -96,7 +96,7 @@
               br
               |79 u 80
 
-          1 tr
+          tr
             td.text-center ý
             td.text-center Se acentúa la letra y en nombres de ortografía arcaizante donde tiene el valor de la vocal i, si le corresponde por las normas generales.
             td Ýñigo, Aýna
@@ -108,7 +108,7 @@
       table
         thead
           tr
-            th.fw-bold.text-center(rowspan='3') Letras
+            th.fw-bold.text-center(colspan='3') Letras
             
         tbody
           tr
@@ -160,7 +160,7 @@
             td.text-center En los derivados de nombres propios se conservará la escritura del nombre del que procede. Esta norma no se aplica a los nombres comunes que han pasado a designar objetos, enfermedades, productos...
             td beethoveniano, picassiano, taylorismo, shakespeariano, darwinista pero alzhéimer, boicot, jacuzzi, zepelín o zeppelin.
     .contenedor(style='background-color: #ffd667').p-4
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.align-items-center
         .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema4/5.svg', alt='')
         .col-lg-11 
           p.mb-0 Estas son sólo algunas normas extraídas de la última actualización en ortografía, publicada por la Real Academia Española en 2010. Para poder ver todas e información adicional sobre la ortografía te invitamos a revisar el material complementario relacionado a Técnicas de Redacción Creativa.

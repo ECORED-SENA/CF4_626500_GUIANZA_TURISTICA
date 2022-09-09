@@ -104,7 +104,7 @@
               | - Perturbada: este tipo de secuencia se da cuando el orden lógico se encuentra alterado. En el ejemplo anterior, sería si se empieza con la reconstrucción y luego la narración se va devolviendo al momento del terremoto.
 
           tr
-            td.fw-bold.text-center Los Registros narrativos
+            td.fw-bold.text-center Los Registros Narrativos
             td.text-center Son los usos del lenguaje que el narrador registra en sus personajes, sirve para dar veracidad al relato 
             td - Culto: utiliza lenguaje elevado propio de personas letradas.
               br

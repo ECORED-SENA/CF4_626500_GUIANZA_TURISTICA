@@ -67,7 +67,7 @@
       .col-lg-8
         .cajon.color-secundario(style='background-color: #B7CEAC').p-4.mb-4
           p.mb-0 SEl objetivo es comunicar por medio del relato o de una serie de acontecimientos, historias que se compongan de un narrador, personajes, el espacio, escenario o ambiente, el relato y el estilo de narración.  Para desarrollar la historia casi siempre se inicia por la presentación de los personajes y el lugar donde se desarrollan los hechos y a continuación el desarrollo de los hechos en un nudo o momento de tensión que se cierra con el desenlace o fin de la historia, pero aun, así como su nombre lo indica en la creatividad siempre puede haber un estilo diferenciador o nuevo.
-        p La narración se hace generalmente en tercera persona, sin embargo, se puede realizar en primera o segunda persona.  Igualmente, el narrador puede estar integrado o no entre los personajes.  La narración hace parte de la comunicación escrita y en diferentes tipos de diálogos relacionados con el teatro, el cine, las historietas y en los formatos televisivos en las telenovelas, modalidades de transmisión de contenido e información innovadoras del siglo XXI, en la que no se puede dejar a un lado lo concerniente al contenido para la web e internet.
+        p La narración se hace generalmente en tercera persona, sin embargo, se puede realizar en primera o segunda persona.  Igualmente, el narrador puede estar integrado o no entre los personajes.  La narración hace parte de la comunicación escrita y en diferentes tipos de diálogos relacionados con el teatro, el cine, las historietas y en los formatos televisivos en las telenovelas, modalidades de transmisión de contenido e información innovadoras del siglo XXI, en la que no se puede dejar a un lado lo concerniente al contenido para la #[i web] e #[i internet.]
       .col-lg-4: img(src='@/assets/curso/temas/tema2/5.jpg' alt='')
     .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
       h4.mb-0 Pensamiento visual y narrativa
@@ -80,12 +80,12 @@
         p La representación de ideas y conceptos en gráficas, fotos e imágenes hace en curso dentro de las herramientas de aprendizaje más usadas y es común ver la propuesta en infografías, mapas de procesos, organizadores de información gráfica entre otros y afirman los expertos que ha calado porque es muy innato del ser humano en sus expresiones el interés por la imagen ya sea en video o estática.
           br
           br
-          span.r--3 El pensamiento visual trae consigo otras herramientas como la Grabación Gráfica o Graphic Recording que ayudan a la sistematización o síntesis de la información con amplitud de opciones que, como el dibujo, la fotografía, el video, los audios, generan una gama de formas narrativas que exploran otras habilidades.
+          span.r--3 El pensamiento visual trae consigo otras herramientas como la Grabación Gráfica o #[i Graphic Recording] que ayudan a la sistematización o síntesis de la información con amplitud de opciones que, como el dibujo, la fotografía, el video, los audios, generan una gama de formas narrativas que exploran otras habilidades.
     .row.justify-content-center.mb-5
       .col-lg-1.col-6: img(src='@/assets/curso/temas/tema2/3.svg', alt='')
 
       .col-lg-11
-        p Transmitir ideas de forma dinámica, concisa y clara es un apoyo en el entorno educativo, artístico, comercial y permea los mensajes y la forma comunicativa de todas las generaciones flexibilizando el trabajo en equipo y los lenguajes, ya que está comprobado que el contenido digital genera motivación e impacta la mente humana haciendo parte de las nuevas propuestas de marketing y de otras actividades del ser humano.
+        p Transmitir ideas de forma dinámica, concisa y clara es un apoyo en el entorno educativo, artístico, comercial y permea los mensajes y la forma comunicativa de todas las generaciones flexibilizando el trabajo en equipo y los lenguajes, ya que está comprobado que el contenido digital genera motivación e impacta la mente humana haciendo parte de las nuevas propuestas de #[i marketing] y de otras actividades del ser humano.
     .row.justify-content-center.mb-5
       .col-lg-8
         p El paso de la narración literaria a la narración visual es un fenómeno reconocido en la fuerza que toma la ilustración y la imagen en el hecho de contar historias en otras formas de escritura, lo que es un reto para el guía que además de integrar estas formas de comunicación en la presentación de recorridos.

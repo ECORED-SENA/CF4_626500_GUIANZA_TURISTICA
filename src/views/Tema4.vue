@@ -118,7 +118,7 @@
           tr
             td.text-center g, j
             td.text-center En los préstamos en los que la g y la j tiene un sonido parecido al de y, se recomienda adaptar bien la pronunciación, bien la escritura.
-            td banjo, júnior, mánager pronunciados [bánjo], [júnior], [mánajer] banyo, júnior, mánayer.
+            td Banjo, júnior, mánager pronunciados [bánjo], [júnior], [mánajer] banyo, júnior, mánayer.
           tr
             td.text-center w
             td.text-center Se admite la w en préstamos, letra que se considera preferible en las voces en las que su uso está asentado. Por tanto, no necesitan cursiva.
@@ -126,39 +126,39 @@
           tr
             td.text-center k
             td.text-center En préstamos, se prefiere conservar la k en las palabras que se usan mayoritariamente con ella.
-            td alaskeño, askenazi, bikini, euskera, harakiri, kamikaze, karst, kimono, kurdo, moka, musaka, póker, uzbeko Irak, Alaska, Marrakech, Pakistán.
+            td Alaskeño, askenazi, bikini, euskera, harakiri, kamikaze, karst, kimono, kurdo, moka, musaka, póker, uzbeko Irak, Alaska, Marrakech, Pakistán.
           tr
             td.text-center c, qu
             td.text-center En préstamos, se prefiere la forma adaptada con c o qu cuando es mayoritaria en el uso.
-            td caqui, cuáquero, iraquí, neoyorquino, polca, queroseno, quiosco, quiosquero, telequinesia, valquiria Tanganica, Turquestán
+            td Caqui, cuáquero, iraquí, neoyorquino, polca, queroseno, quiosco, quiosquero, telequinesia, valquiria Tanganica, Turquestán
           tr
             td.text-center qa, qe, qi, qo, qu
             td.text-center Se recomienda cambiar las combinaciones qa, qe, qi, qo, qu en nombres comunes adaptados y macrotopónimos a ca, que, qui, co, cu, cuando tienen estos valores. En el resto de los nombres, se pueden conservar.
-            td cuórum, exequátur, cuadrivio, cuark, cuásar, catarí Catar (se prefiere a Qatar) Al Qaeda
+            td Cuórum, exequátur, cuadrivio, cuark, cuásar, catarí Catar (se prefiere a Qatar) Al Qaeda
           tr
             td.text-center y final tras vocal 
             td.text-center Como norma general, se prefiere -ay, -ey, -oy, -uy en estos diptongos a final de palabra, aunque hay excepciones en préstamos donde se escribe -ai, -ei, -oi, -ui. Cuando ambas formas son válidas, se prefiere la mayoritaria en el uso.
-            td carey, yóquey, tepuy, jagüey agnusdéi, saharaui bonsái, paipai, samurái, tipoy
+            td Carey, yóquey, tepuy, jagüey agnusdéi, saharaui bonsái, paipai, samurái, tipoy
           tr
             td.text-center y final tras consonante
             td.text-center Al adaptar extranjerismos que terminan en consonante + y, esta se transforma en i. También se escriben con i latina final los hipocorísticos.
-            td bodi, curri, ferri, panti, rali, sexi Mari, Cati, Toni, Dani
+            td Bodi, curri, ferri, panti, rali, sexi Mari, Cati, Toni, Dani
           tr
             td.text-center y medial
             td.text-center En préstamos, y pasa a i cuando tiene este valor de vocal. Se recuerda que también se cambia al formar el plural de algunas palabras que terminan en vocal + y.
-            td lycra, géiser, aimara gais, yoqueis, jerséis
+            td Lycra, géiser, aimara gais, yoqueis, jerséis
           tr
             td.text-center ng final
             td.text-center Se recomienda suprimir la g final al adaptar palabras terminadas en -ng. El diccionario académico recoge como casos excepcionales fang, gong y yang.
-            td cáterin, campin, casting, esmoquin, márquetin, piercing, parking, pudin o pudín
+            td Cáterin, campin, casting, esmoquin, márquetin, piercing, parking, pudin o pudín
           tr
             td.text-center ps inicial
             td.text-center El uso culto sigue prefiriendo la grafía con ps- inicial, aunque en todos los casos se admiten las formas con s-.
-            td psicología, psicosis, psiquiatra, pseudoprofeta, psoriasis, seudología, seudónimo, seudópodo
+            td Psicología, psicosis, psiquiatra, pseudoprofeta, psoriasis, seudología, seudónimo, seudópodo
           tr
             td.text-center Derivados de nombres propios
             td.text-center En los derivados de nombres propios se conservará la escritura del nombre del que procede. Esta norma no se aplica a los nombres comunes que han pasado a designar objetos, enfermedades, productos...
-            td beethoveniano, picassiano, taylorismo, shakespeariano, darwinista pero alzhéimer, boicot, jacuzzi, zepelín o zeppelin.
+            td Beethoveniano, picassiano, taylorismo, shakespeariano, darwinista pero alzhéimer, boicot, jacuzzi, zepelín o zeppelin.
     .contenedor(style='background-color: #ffd667').p-4
       .row.justify-content-center.align-items-center
         .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema4/5.svg', alt='')

@@ -11,7 +11,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En los últimos años es conocido en todos los escenarios el uso de las normas APA (American Psychological Association) para la presentación de trabajos con una estructura universal para publicaciones, lo que permite que el siglo XXI presente de manera prolija, alta producción académica y de calidad.
+        p.mb-0 En los últimos años es conocido en todos los escenarios el uso de las normas APA #[i (American Psychological Association)] para la presentación de trabajos con una estructura universal para publicaciones, lo que permite que el siglo XXI presente de manera prolija, alta producción académica y de calidad.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6: img(src='@/assets/curso/temas/tema6/2.jpg', alt='')
       .col-lg-6
@@ -54,10 +54,10 @@
     .row.justify-content-center.mb-5
       .col-lg-6: img(src='@/assets/curso/temas/tema6/6.jpg', alt='')
       .col-lg-6 
-        p.mb-5(data-aos='fade-right') Las publicaciones por Facebook Ads o Ad Manager o lo relacionado con mejoramiento de las marcas y marketing digital mediado en canales como YouTube, Twitter, Tik Tok, o Instagram, tienen condiciones de uso que deben ser conocidas para no contravenir las leyes, al usar texto en la web para promocionar productos o servicios empresariales, además de tener buena gramática la publicación debe ser apropiada a la audiencia y con alta credibilidad, también el dosificar la información es respetuoso con los usuarios, así como no utilizar lenguajes muy estilizados o con vocabulario de difícil comprensión.
+        p.mb-5(data-aos='fade-right') Las publicaciones por #[i Facebook Ads] o #[i Ad Manager] o lo relacionado con mejoramiento de las marcas y #[i marketing] digital mediado en canales como #[i YouTube, Twitter, Tik Tok, o Instagram], tienen condiciones de uso que deben ser conocidas para no contravenir las leyes, al usar texto en la #[i web] para promocionar productos o servicios empresariales, además de tener buena gramática la publicación debe ser apropiada a la audiencia y con alta credibilidad, también el dosificar la información es respetuoso con los usuarios, así como no utilizar lenguajes muy estilizados o con vocabulario de difícil comprensión.
           br
           br
-          | El éxito de los mensajes también dependerá de usar los famosos mecanismos cerebrales que permite que el cliente potencial decida rápido por la compra u obtención de su interés, estos tips comunicativos se aplican con ejercicios que el diseñador del mensaje realiza teniendo en cuenta que los mensajes se basan en la comprensión del público objetivo. Es indispensable usar técnicas como storytelling o historias de la empresa y clientes, compartiendo experiencias como miedos, angustias, desafíos o conquistas que conectan con los clientes potenciales.
+          | El éxito de los mensajes también dependerá de usar los famosos mecanismos cerebrales que permite que el cliente potencial decida rápido por la compra u obtención de su interés, estos tips comunicativos se aplican con ejercicios que el diseñador del mensaje realiza teniendo en cuenta que los mensajes se basan en la comprensión del público objetivo. Es indispensable usar técnicas como #[i storytelling] o historias de la empresa y clientes, compartiendo experiencias como miedos, angustias, desafíos o conquistas que conectan con los clientes potenciales. 
     .row.justify-content-center.mb-5
       .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/7.svg', alt='')  
       .col-lg-11
@@ -73,42 +73,42 @@
         .row.justify-content-center.mb-3.align-items-center
           .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n1.svg', alt='')
           .col-lg-10
-            p El derecho de autor ampara obras, no ideas
+            p El derecho de autor ampara obras, no ideas.
         hr
         .row.justify-content-center.mb-3.align-items-center
           .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n2.svg', alt='')
           .col-lg-10
-            p Crear una obra de cualquier tipo ya es derecho del autor
+            p Crear una obra de cualquier tipo ya es derecho del autor.
         hr
         .row.justify-content-center.mb-3.align-items-center
           .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n3.svg', alt='')
           .col-lg-10
-            p Las creaciones colectivas de personas naturales tienen el derecho de autor
+            p Las creaciones colectivas de personas naturales tienen el derecho de autor.
         hr
         .row.justify-content-center.mb-3.align-items-center
           .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n4.svg', alt='')
           .col-lg-10
-            p Si cede a derechos de autor legalice los fines, usos y aplicaciones para la obra
+            p Si cede a derechos de autor legalice los fines, usos y aplicaciones para la obra.
       .col-lg-5
         .row.justify-content-center.mb-3.align-items-center
           .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n5.svg', alt='')
           .col-lg-10
-            p Los derechos de autor patrimoniales son los que se ceden por reproducción, adaptación o publicación 
+            p Los derechos de autor patrimoniales son los que se ceden por reproducción, adaptación o publicación. 
         hr
         .row.justify-content-center.mb-3.align-items-center
           .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n6.svg', alt='')
           .col-lg-10
-            p Es diferente ser dueño de una obra que tener derecho de autor
+            p Es diferente ser dueño de una obra que tener derecho de autor.
         hr
         .row.justify-content-center.mb-3.align-items-center
           .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n7.svg', alt='')
           .col-lg-10
-            p Es importante utilizar con autorización los trabajos de otros
+            p Es importante utilizar con autorización los trabajos de otros.
         hr
         .row.justify-content-center.mb-3.align-items-center
           .col-lg-2.col-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema6/n8.svg', alt='')
           .col-lg-10
-            p El derecho de autor rige para actividades creativas no en realizaciones técnicas
+            p El derecho de autor rige para actividades creativas no en realizaciones técnicas.
 
 
 

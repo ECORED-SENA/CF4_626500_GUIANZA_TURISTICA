@@ -124,7 +124,7 @@
             .tarjeta-flip__contenido.p-4.p-xl-5(style='background-color: #FFE6A1')
               img.mb-3(src='@/assets/curso/temas/tema1/35.svg', alt='' style='width: 67px')
               h4 La técnica de las “W”
-              p Su nombre se deriva de cómo se escriben las diferentes interrogantes al inglés (Why, What, Where, etc.) pero al español reúne todas las posibles interrogantes que nos podemos hacer frente a un tema como, por ejemplo: 
+              p Su nombre se deriva de cómo se escriben las diferentes interrogantes al inglés #[i (Why, What, Where, etc.)] pero al español reúne todas las posibles interrogantes que nos podemos hacer frente a un tema como, por ejemplo: 
                 br
                 br
                 |¿Qué?, ¿Quién?, ¿Dónde?, ¿Cuándo?, ¿Por qué?, ¿Cómo?, ¿Cuál?, ¿Para qué? De seguro que al tener esta información sobre alguna temática no tendría problema alguno para redactar un texto.

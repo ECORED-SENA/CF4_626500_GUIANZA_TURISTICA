@@ -61,8 +61,8 @@
             table
               thead
                 tr
-                  th(style='background-color: #ffb338; color: black') Hola
-                  th(style='background-color: #2b6e17; color: black')
+                  th(style='background-color: #ffb338; color: black') Escritura académica
+                  th(style='background-color: #2b6e17; color: white') Escritura creativa
               tbody
                 tr
                   td La escritura académica es propia del ámbito universitario y científico.
@@ -78,7 +78,7 @@
                 tr
                   td Utiliza una serie de recursos muy elaborados.
                   td La escritura creativa no imita ningún género, ni sigue un patrón clásico de escritura.
-      .py-3.py-md-4(titulo="Finalidad Creativa")
+      .py-3.py-md-4(titulo="Finalidad creativa")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
             p La escritura incentiva la imaginación al tener una finalidad creativa lo cual permite:
@@ -86,7 +86,7 @@
               br
               | Mejora el vocabulario y léxico: así como ampliar el conocimiento y aplicaciones de nuevas expresiones.
               br
-              | Al crear, mejora la capacidad de concentración, y a ser más reflexivo a la hora de pensar 
+              | Al crear, mejora la capacidad de concentración, y a ser más reflexivo a la hora de pensar. 
               br
               | Transmite a través de la información vivencias y experiencias a los receptores.
               br
@@ -187,21 +187,21 @@
 
           .col-lg-2: img(src='@/assets/curso/temas/tema5/17.svg', alt='')
     .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
-      h4.mb-0 Marketing de contenidos para el turismo
-    p.mb-5(data-aos='fade-right') El marketing o técnicas para comercializar productos y servicios, hace parte de la creatividad y saberes que en el turismo se desarrollan habitualmente.  
+      h4.mb-0 #[i Marketing] de contenidos para el turismo
+    p.mb-5(data-aos='fade-right') El #[i marketing] o técnicas para comercializar productos y servicios, hace parte de la creatividad y saberes que en el turismo se desarrollan habitualmente.  
       br
       br
-      |Los estudiosos del marketing y sus estrategias sobre contenidos recomiendan que al implementarlas los contenidos e imagen deben ser equilibrados, claros y de impacto para aprovechar las numerosas ventajas de la internet, como:
+      |Los estudiosos del #[i marketing] y sus estrategias sobre contenidos recomiendan que al implementarlas los contenidos e imagen deben ser equilibrados, claros y de impacto para aprovechar las numerosas ventajas de la #[i internet], como:
     .row.justify-content-center.mb-5
       .col-lg-7
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta acordeon-inactivo"  )
           .div(titulo="Reconocimiento fácil de producto y servicios a ofrecer")
-            p La publicación en internet es el mejor aliado; servicios ofrecidos en una tienda virtual que funciona 24 horas, 7 días a la semana.   
+            p La publicación en #[i internet] es el mejor aliado; servicios ofrecidos en una tienda virtual que funciona 24 horas, 7 días a la semana.   
               br
               br
               |Los contenidos para clientes potenciales y que demandan, conocen y buscan sobre sus intereses, deben encontrar en el espacio creado, las ventajas competitivas de lo ofrecido.
           .div(titulo="Posicionamiento y conquista de la autoridad en el mercado")
-            p La presencia en Internet permite dar visibilidad a un amplio público y ante la competencia; se necesita un portafolio de servicios y productos de la empresa ya sea propia o que sea un empleado.  
+            p La presencia en #[i Internet] permite dar visibilidad a un amplio público y ante la competencia; se necesita un portafolio de servicios y productos de la empresa ya sea propia o que sea un empleado.  
               br
               br
               |Para convertirse en autoridad del mercado es indispensable, la buena imagen y la generación de confiabilidad de lo que allí se presenta e informa, lo que da el poder de negociación concretar las acciones de fidelizar el cliente efectivo y llegar al potencial con experiencias y calificación del servicio o producto, clave del mercadeo 
@@ -210,27 +210,27 @@
             p Los contenidos de mercadeo son costosos y generan gastos en papel y propaganda que, aunque es importante, generar alto valor económico.  
               br
               br
-              |El marketing por internet es una estrategia económica y que puede reducir costos de inversión en la comercialización. Parte de ser empresario o trabajar para una empresa, implica responsabilidad en el uso de los recursos ya sean financieros o materiales 
+              |El #[i marketing] por #[i internet] es una estrategia económica y que puede reducir costos de inversión en la comercialización. Parte de ser empresario o trabajar para una empresa, implica responsabilidad en el uso de los recursos ya sean financieros o materiales 
 
           .div(titulo="Acelera el ciclo de ventas")
             p El tiempo que la empresa invierte entre contactar inicialmente al cliente,  hasta el cierre de la venta, y todo lo que acontece en ese espacio, son etapas de un ciclo de venta.
               br
               br
-              |El marketing  de contenidos dentro de este espacio de tiempo, es veloz y altamente efectivo porque el mensaje llega a cada persona y además se siente realizado para la individualidad, lo que parece que es personalizado y de fácil acceso lo que impacta al cliente y sus decisiones ubicándolo de manera ágil, en el momento o etapa de compra.
-    p.mb-5(data-aos='fade-right') Todo lo anterior reafirma la importancia de la escritura creativa en procesos como el marketing que se pueden publicar en diferentes tipos de canales como:  
+              |El #[i marketing]  de contenidos dentro de este espacio de tiempo, es veloz y altamente efectivo porque el mensaje llega a cada persona y además se siente realizado para la individualidad, lo que parece que es personalizado y de fácil acceso lo que impacta al cliente y sus decisiones ubicándolo de manera ágil, en el momento o etapa de compra.
+    p.mb-5(data-aos='fade-right') Todo lo anterior reafirma la importancia de la escritura creativa en procesos como el #[i marketing] que se pueden publicar en diferentes tipos de canales como:  
     .row.justify-content-center.mb-5
       .col-lg-10: img(src='@/assets/curso/temas/tema5/19.svg', alt='')
     .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
       h4.mb-0 #[i Storytelling, storyscaping, storydoing]
-    p.mb-5(data-aos='fade-right') Las técnicas para materializar la escritura creativa no solo en marketing si no en otros escenarios como el de generar experiencia cliente en el turismo se diseñan al tener en cuenta que, desde la generación de ideas hasta la divulgación, el lenguaje inspirador es esencial.  Relacionado a que el marketing incluye la emoción como parte del objetivo, creando vínculos afectivos entre todas las personas o clientes, para volverlos protagonistas de las historias por lo que el uso de técnicas que lo permitan como el storytelling, storyscaping, storydoing están de moda, haciendo parte de la forma de presentar contenidos de la narrativa creativa o branded content.
+    p.mb-5(data-aos='fade-right') Las técnicas para materializar la escritura creativa no solo en #[i marketing] si no en otros escenarios como el de generar experiencia cliente en el turismo se diseñan al tener en cuenta que, desde la generación de ideas hasta la divulgación, el lenguaje inspirador es esencial.  Relacionado a que el #[i marketing] incluye la emoción como parte del objetivo, creando vínculos afectivos entre todas las personas o clientes, para volverlos protagonistas de las historias por lo que el uso de técnicas que lo permitan como el #[i storytelling, storyscaping, storydoing] están de moda, haciendo parte de la forma de presentar contenidos de la narrativa creativa o #[i branded content.]
     .row.justify-content-center.mb-5
       .col-lg-8
         .cajon.color-primario(style='background-color:#ffd667 ').p-4.mb-4
-          p El storytelling, es una palabra del idioma inglés compuesta por: “story” que traduce historia y “telling”, que traduce contar.  Varios autores concuerdan que es un arte que a través de la creación, descripción, desarrollo y adaptación de historias que se escriben con elementos de la narrativa como personajes, contextos o ambientes, nudo o conflicto y un mensaje o moraleja, cuentan con una estructura que presentan el inicio, medio y fin, de un relato, con el objetivo de enclavar un mensaje llevando a la conexión con el receptor, lector u oyente a nivel emocional, concepto que es propicio porque el guía, es un facilitador de experiencias.
+          p El #[i storytelling], es una palabra del idioma inglés compuesta por: #[i “story”] que traduce historia y #[i “telling”], que traduce contar.  Varios autores concuerdan que es un arte que a través de la creación, descripción, desarrollo y adaptación de historias que se escriben con elementos de la narrativa como personajes, contextos o ambientes, nudo o conflicto y un mensaje o moraleja, cuentan con una estructura que presentan el inicio, medio y fin, de un relato, con el objetivo de enclavar un mensaje llevando a la conexión con el receptor, lector u oyente a nivel emocional, concepto que es propicio porque el guía, es un facilitador de experiencias.
         p.mb-5(data-aos='fade-right') La originalidad o impronta personal de quien la realiza o sea el autor se deriva de la experiencia y la perspectiva con que éste la narra permitiendo que las buenas historias conduzcan al público a lo largo de una jornada y que ésta sea inolvidable.  
           br
           br
-          |Los elementos del storytelling como técnica de narrativa creativa son:  
+          |Los elementos del #[i storytelling] como técnica de narrativa creativa son:  
 
       .col-lg-4: img(src='@/assets/curso/temas/tema5/20.jpg', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -250,11 +250,11 @@
               ul.lista-ul--color1.ms-3
                 li
                   i.fas.fa-circle.fa-xs.me-2
-                  | Story: la historia y el mensaje que serán transmitidos. 
+                  | #[i Story:] la historia y el mensaje que serán transmitidos. 
 
                 li
                   i.fas.fa-circle.fa-xs.me-2
-                  | Telling: la forma como ese mensaje es presentado. 
+                  | #[i Telling:] la forma como ese mensaje es presentado. 
               p Se usan buscando equilibrio lingüístico en el texto y estos componentes, en otras palabras, si el mensaje es fuerte, puede surtir el efecto aun teniendo un telling débil; de otra parte, si el telling, es débil o plano difícilmente se salvará el mensaje, pese a que se utilicen técnicas de calidad. 
 
           tr
@@ -275,7 +275,7 @@
     .row.justify-content-center.mb-5
       .col-lg-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema5/21.jpg', alt='')
       .col-lg-7
-        p En cuanto al uso en el marketing, Darren McColl y Gaston Legorburu – 2014, sostienen que:
+        p En cuanto al uso en el #[i marketing], Darren McColl y Gaston Legorburu – 2014, sostienen que:
         div(style='background-color: #ffe6a1').p-4.mb-4
           .row.justify-content-center
             .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema5/22.svg', alt='')
@@ -283,13 +283,13 @@
               p.fst-italic.mb-0 #[b "Storyscaping:] Stop Creating Ads, Start Creating Worlds"
                 br
                 | #[b "Storyscaping:] deje de crear anuncios, comience a crear mundos"
-        p.mb-0 De otra parte, la técnica storydoing aplicada en el turismo tiene como objetivo permitir que el viajero tenga contacto con otras cotidianidades diferentes a la suya y otorgar la oportunidad de que sean transformadas en experiencia de vida. Este renacimiento del turismo hacia la construcción y mejora de la identidad del viajero se edifica a través de sentir nuevas emociones, lo que implica que las historias y experiencias se diseñan desde la base personal de la percepción creada en la mente del turista como respuesta a la comparación entre las expectativas del viaje o imaginario y su experiencia concreta, es decir, la experiencia realizada. 
+        p.mb-0 De otra parte, la técnica #[i storydoing] aplicada en el turismo tiene como objetivo permitir que el viajero tenga contacto con otras cotidianidades diferentes a la suya y otorgar la oportunidad de que sean transformadas en experiencia de vida. Este renacimiento del turismo hacia la construcción y mejora de la identidad del viajero se edifica a través de sentir nuevas emociones, lo que implica que las historias y experiencias se diseñan desde la base personal de la percepción creada en la mente del turista como respuesta a la comparación entre las expectativas del viaje o imaginario y su experiencia concreta, es decir, la experiencia realizada. 
           br
           br
           | Esta técnica 
           span.r--3 es efectiva para el desarrollo en la concepción del turismo alternativo puesto que desde este enfoque el turista deja de ser un sujeto pasivo para convertirse en activo, 
           | al interactuar con el entorno que visita convirtiendo esta, en una experiencia única y totalmente emocional.
-    p.mb-5(data-aos='fade-right') El storydoing (story: historia – doing: haciendo) es interactividad pura, pues se reconoce que transmitir una historia y unos valores y hacer que el participante empatice con ella (storytelling), llevando a la demostración de las ventajas sobre migrar a la acción incluyente en donde el receptor puede ser protagonista y ser parte de la historia, haciendo historia (storydoing).  
+    p.mb-5(data-aos='fade-right') El #[i storydoing] (#[i story:] historia – #[i doing:] haciendo) es interactividad pura, pues se reconoce que transmitir una historia y unos valores y hacer que el participante empatice con ella #[i (storytelling)], llevando a la demostración de las ventajas sobre migrar a la acción incluyente en donde el receptor puede ser protagonista y ser parte de la historia, haciendo historia #[i (storydoing).]  
       br
       br
       | Existen diferencias a tener en cuenta:   
@@ -297,17 +297,17 @@
       .col-lg-4
         .tarjeta.text-center(style='background-color: #ffe6a1').p-4.h-100
           img.m-auto.mb-3(src='@/assets/curso/temas/tema5/23.svg', alt='' style='width: 119px')  
-          h5 Storytelling
+          h5 #[i Storytelling]
           p.mb-0 Simplemente cuenta una historia al receptor
           hr.my-1
-          p Storytelling busca contar historias
+          p #[i Storytelling] busca contar historias
       .col-lg-4
         .tarjeta.text-center(style='background-color: #ffe6a1').p-4.h-100
           img.m-auto.mb-3(src='@/assets/curso/temas/tema5/24.svg', alt='' style='width: 119px')  
-          h5 Storydoing
+          h5 #[i Storydoing]
           p.mb-0 Crea experiencias para el receptor
           hr.my-1
-          p Storydoing las lleva a cabo
+          p #[i Storydoing] las lleva a cabo
 
  
 

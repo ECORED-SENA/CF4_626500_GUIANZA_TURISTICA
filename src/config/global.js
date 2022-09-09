@@ -155,7 +155,7 @@ export default {
     {
       termino: 'Género',
       significado:
-        'Centrados en su significado en el contexto de las artes: se llama género a cada una de las clases o categorías en que pueden clasificarse las obras de acuerdo con sus características',
+        'Centrados en su significado en el contexto de las artes: se llama género a cada una de las clases o categorías en que pueden clasificarse las obras de acuerdo con sus características.',
     },
     {
       termino: 'Didáctica ',
@@ -278,7 +278,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Melina Tatiana Quintero Rodriguez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

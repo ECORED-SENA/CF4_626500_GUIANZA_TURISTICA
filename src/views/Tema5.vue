@@ -26,7 +26,7 @@
               |No imita otros géneros: es precisamente por su originalidad, repentismo y autenticidad, que los productos de la escritura creativa están totalmente alejados de esquemas de la escritura tradicional.
               br
               br
-              |Revela el talento y la imaginación: La creatividad y la imaginación caracterizan al autor  quien revela su personalidad, sus objetivos.
+              |Revela el talento y la imaginación: la creatividad y la imaginación caracterizan al autor  quien revela su personalidad, sus objetivos.
           .col-lg-5: img.mb-5(data-aos='zoom-in-up')(src='@/assets/curso/temas/tema5/2.jpg', alt='')
       .py-3.py-md-4(titulo="Tipos de escritura creativa")
         .row.justify-content-center.align-items-center.mb-5
@@ -270,7 +270,7 @@
                 br
                 | Este elemento debe ser elaborado con calidad, profundidad y evitando una solución facilista, pues esto crea desconexión con el lector, oyente o receptor. Por lo tanto, la trama, nudo o el conflicto debe ser elaborado de forma compleja, con expectativa para mantener la atención durante el desarrollo de las actividades y dejar sensaciones variadas hasta mucho tiempo después. 
     p.mb-5(data-aos='fade-right')
-      span.r--3 El storyscaping busca conectar al receptor con una historia, 
+      span.r--3 El #[i storyscaping] busca conectar al receptor con una historia, 
       | esta técnica pretende que el lector, oyente o receptor viva la historia, se busca un mundo en el que el receptor no solo participe y se relacione sintiéndose identificado, sino que es protagonista y parte importante de la historia, la puede ayudar a construir o deconstruir, se apropia de ella.
     .row.justify-content-center.mb-5
       .col-lg-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema5/21.jpg', alt='')

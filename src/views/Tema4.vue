@@ -122,7 +122,7 @@
           tr
             td.text-center w
             td.text-center Se admite la w en préstamos, letra que se considera preferible en las voces en las que su uso está asentado. Por tanto, no necesitan cursiva.
-            td kiwi, sándwich, web, wéstern, taiwanés, kuwaití.
+            td Kiwi, sándwich, web, wéstern, taiwanés, kuwaití.
           tr
             td.text-center k
             td.text-center En préstamos, se prefiere conservar la k en las palabras que se usan mayoritariamente con ella.

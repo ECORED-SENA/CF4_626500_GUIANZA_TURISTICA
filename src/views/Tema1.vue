@@ -12,6 +12,10 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La comunicación se basa en la interacción entre el receptor, emisor, el mensaje y el canal con base en el diálogo oral, todo en un mismo contexto o escenario, pero como es sabido existe otro tipo de diálogo que encontramos en composiciones literaria como narraciones, cuentos, novelas, fábulas, obras de teatro, noticias entre otros, referidas al diálogo escrito el cual maneja variedad de recursos y una interacción diferente entre emisor y receptor, convirtiéndose en una relación escritor-lector y aunque se fundamenta en el mismo sistema lingüístico de la oralidad, sus características son diferentes.
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/X3Cv9sKaYo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Leyenda del video
     .row.justify-content-center.mb-5
       .col-lg-9
         .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5

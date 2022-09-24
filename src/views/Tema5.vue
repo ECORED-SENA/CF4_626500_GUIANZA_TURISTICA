@@ -14,9 +14,9 @@
           br
           br
           | Veamos a continuación, varios elementos de la escritura creativa:
-      .col-lg-6: img(src='@/assets/curso/temas/tema5/1.jpg', alt='')
+      .col-lg-6: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/1.jpg', alt='')
     TabsC.color-primario.mb-5
-      .py-3.py-md-4(titulo="Características de la escritura creativa")
+      .py-3.py-md-4(titulo="Características de la escritura creativa").bg-tabs
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
             p Tenemos características de la escritura creativa:
@@ -105,49 +105,49 @@
       .col-lg-6 
         SlyderF.mb-5.slyder-100(columnas="col-lg-6 col-xl-6")
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' style='width: 130px')
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Planear  rutina
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/tema5/6.svg' alt='AvatarTop' style='width: 130px')
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/6.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Practicar, escribir a diario
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/tema5/7.svg' alt='AvatarTop' style='width: 130px')
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/7.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Leer textos ejemplo
 
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/tema5/8.svg' alt='AvatarTop' style='width: 130px')
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/8.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Escribir las ideas
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/tema5/9.svg' alt='AvatarTop' style='width: 130px')
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/9.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Hacer una estructura antes de escribir
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/tema5/10.svg' alt='AvatarTop' style='width: 130px')
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/10.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Utilizar figuras literarias
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/tema5/11.svg' alt='AvatarTop' style='width: 130px')
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/11.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Escribir para llamar la atención del lector
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/tema5/12.svg' alt='AvatarTop' style='width: 130px')
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/12.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Hacer proceso de empatía con la historia
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-1.col-6.mb-lg-0.mb-3
-        img(src='@/assets/curso/temas/tema5/13.svg', alt='')
+      .col-lg-1.col-3.mb-lg-0.mb-3
+        img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/13.svg', alt='')
       .col-lg-11 Cada técnica necesita de unas acciones concretas, en el caso de la escritura, debe seleccionarse el tiempo o una franja diaria, en un lugar con luz, ambiente cómodo y tener cerca lo que genera inspiración;  dicen los expertos que la practica hace al maestro, aprovechar los tiempos libres, escribir diariamente y usando normas gramaticales y estructuras semánticas es una ayuda para desarrollo de la habilidad;  igualmente, la lectura de textos de autores reconocidos y de los temas a escribir, ayuda a la estructuración semántica y creativa de fluidez. 
     .row.justify-content-center.mb-5
       .col-lg-6
@@ -155,7 +155,7 @@
           br
           br
           |El lector o receptor, sus expectativas y necesidades deben ser parte del escrito o la historia, así se conecta con el escrito y desde luego que la empatía, ayuda a crear personajes y situaciones comprensible y reales para él. 
-      .col-lg-6: img(src='@/assets/curso/temas/tema5/14.jpg', alt='')  
+      .col-lg-6: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/14.jpg', alt='')  
     .cajon.color-primario(style='background-color: #ffd667').p-4.mb-4
       p.mb-0 Finalmente, el proceso creativo y los pasos para armar una historia o relatar un suceso necesita de un camino metodológico que además permita llegar al reconocimiento de la propia posibilidad de desarrollar la escritura, paso a paso, de forma atenta y dedicada.  
     p.mb-5(data-aos='fade-right') Cada etapa del trabajo es crucial para llegar al resultado:
@@ -166,13 +166,13 @@
             h5 Introspección / Acopio
             p Es un momento de encuentro con el yo creativo, escribiendo ideas, dibujando, activando la imaginación. 
 
-          .col-lg-2: img(src='@/assets/curso/temas/tema5/15.svg', alt='')
+          .col-lg-2.col-4: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/15.svg', alt='')
       .tarjeta.p-4(titulo="Primer borrador" style='background-color:#d0eac3')
         .row.justify-content-center.align-items-center
           .col-lg-10.mb-lg-0.mb-3
             h5 Primer borrador
             p Decantar las ideas escribiendo un primer texto muy generoso y amplio con posibilidades de ajustar y trabajar.
-          .col-lg-2: img(src='@/assets/curso/temas/tema5/16.svg', alt='')
+          .col-lg-2.col-4: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/16.svg', alt='')
       .tarjeta.p-4(titulo="Corrección y divulgación" style='background-color:#d0eac3')
         .row.justify-content-center.align-items-center
           .col-lg-10.mb-lg-0.mb-3
@@ -185,7 +185,7 @@
                 i.vineta2
                 | Presentar o publicar.
 
-          .col-lg-2: img(src='@/assets/curso/temas/tema5/17.svg', alt='')
+          .col-lg-2.col-4: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/17.svg', alt='')
     .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
       h4.mb-0 #[i Marketing] de contenidos para el turismo
     p.mb-5(data-aos='fade-right') El #[i marketing] o técnicas para comercializar productos y servicios, hace parte de la creatividad y saberes que en el turismo se desarrollan habitualmente.  
@@ -217,9 +217,40 @@
               br
               br
               |El #[i marketing]  de contenidos dentro de este espacio de tiempo, es veloz y altamente efectivo porque el mensaje llega a cada persona y además se siente realizado para la individualidad, lo que parece que es personalizado y de fácil acceso lo que impacta al cliente y sus decisiones ubicándolo de manera ágil, en el momento o etapa de compra.
+      .col-lg-5.col-8: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/18.png', alt='')
+
+
+
+
+
+
+
+
+
+
     p.mb-5(data-aos='fade-right') Todo lo anterior reafirma la importancia de la escritura creativa en procesos como el #[i marketing] que se pueden publicar en diferentes tipos de canales como:  
-    .row.justify-content-center.mb-5
-      .col-lg-10: img(src='@/assets/curso/temas/tema5/19.svg', alt='')
+    .row.justify-content-center.align-items-center
+      .col-lg-10
+    
+        .tarjeta.tarjeta-wrap(style='background-color: #dee4f0').p-2.mb-5
+          .d-flex.m-3.align-items-center.justify-content-center
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/i1.svg', alt='' style='width: 30px ').me-2
+            h4.mb-0  Blog
+          .d-flex.m-3.align-items-center.justify-content-center
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/i2.svg', alt='' style='width: 30px ').me-2
+            h4.mb-0  E-books
+          .d-flex.m-3.align-items-center.justify-content-center
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/i3.svg', alt='' style='width: 30px ').me-2
+            h4.mb-0  Newsletter
+          .d-flex.m-3.align-items-center.justify-content-center
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/i4.svg', alt='' style='width: 30px ').me-2
+            h4.mb-0  Videos
+          .d-flex.m-3.align-items-center.justify-content-center
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/i5.svg', alt='' style='width: 30px ').me-2
+            h4.mb-0  Infografías
+          .d-flex.m-3.align-items-center.justify-content-center
+            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/i6.svg', alt='' style='width: 30px ').me-2
+            h4.mb-0  Podcasts
     .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
       h4.mb-0 #[i Storytelling, storyscaping, storydoing]
     p.mb-5(data-aos='fade-right') Las técnicas para materializar la escritura creativa no solo en #[i marketing] si no en otros escenarios como el de generar experiencia cliente en el turismo se diseñan al tener en cuenta que, desde la generación de ideas hasta la divulgación, el lenguaje inspirador es esencial.  Relacionado a que el #[i marketing] incluye la emoción como parte del objetivo, creando vínculos afectivos entre todas las personas o clientes, para volverlos protagonistas de las historias por lo que el uso de técnicas que lo permitan como el #[i storytelling, storyscaping, storydoing] están de moda, haciendo parte de la forma de presentar contenidos de la narrativa creativa o #[i branded content.]
@@ -232,7 +263,7 @@
           br
           |Los elementos del #[i storytelling] como técnica de narrativa creativa son:  
 
-      .col-lg-4: img(src='@/assets/curso/temas/tema5/20.jpg', alt='')
+      .col-lg-4: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/20.jpg', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 4. 
       span Elementos del #[i storytelling]
@@ -250,11 +281,11 @@
               ul.lista-ul--color1.ms-3
                 li
                   i.fas.fa-circle.fa-xs.me-2
-                  | #[i Story:] la historia y el mensaje que serán transmitidos. 
+                  | #[em Story:] la historia y el mensaje que serán transmitidos. 
 
                 li
                   i.fas.fa-circle.fa-xs.me-2
-                  | #[i Telling:] la forma como ese mensaje es presentado. 
+                  | #[em Telling:] la forma como ese mensaje es presentado. 
               p Se usan buscando equilibrio lingüístico en el texto y estos componentes, en otras palabras, si el mensaje es fuerte, puede surtir el efecto aun teniendo un telling débil; de otra parte, si el telling, es débil o plano difícilmente se salvará el mensaje, pese a que se utilicen técnicas de calidad. 
 
           tr
@@ -270,15 +301,15 @@
                 br
                 | Este elemento debe ser elaborado con calidad, profundidad y evitando una solución facilista, pues esto crea desconexión con el lector, oyente o receptor. Por lo tanto, la trama, nudo o el conflicto debe ser elaborado de forma compleja, con expectativa para mantener la atención durante el desarrollo de las actividades y dejar sensaciones variadas hasta mucho tiempo después. 
     p.mb-5(data-aos='fade-right')
-      span.r--3 El #[i storyscaping] busca conectar al receptor con una historia, 
-      | esta técnica pretende que el lector, oyente o receptor viva la historia, se busca un mundo en el que el receptor no solo participe y se relacione sintiéndose identificado, sino que es protagonista y parte importante de la historia, la puede ayudar a construir o deconstruir, se apropia de ella.
+      span.r--3 El #[i storyscaping] busca conectar al receptor con una historia, esta técnica pretende que el lector, oyente o receptor viva la historia
+      | , se busca un mundo en el que el receptor no solo participe y se relacione sintiéndose identificado, sino que es protagonista y parte importante de la historia, la puede ayudar a construir o deconstruir, se apropia de ella.
     .row.justify-content-center.mb-5
-      .col-lg-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema5/21.jpg', alt='')
+      .col-lg-5.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/21.jpg', alt='')
       .col-lg-7
         p En cuanto al uso en el #[i marketing], Darren McColl y Gaston Legorburu – 2014, sostienen que:
         div(style='background-color: #ffe6a1').p-4.mb-4
           .row.justify-content-center
-            .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema5/22.svg', alt='')
+            .col-lg-1.col-3.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/22.svg', alt='')
             .col-lg-11 
               p.fst-italic.mb-0 #[b "Storyscaping:] Stop Creating Ads, Start Creating Worlds"
                 br
@@ -294,7 +325,7 @@
       br
       | Existen diferencias a tener en cuenta:   
     .row.justify-content-center.mb-5
-      .col-lg-4
+      .col-lg-4.mb-lg-0.mb-3
         .tarjeta.text-center(style='background-color: #ffe6a1').p-4.h-100
           img.m-auto.mb-3(src='@/assets/curso/temas/tema5/23.svg', alt='' style='width: 119px')  
           h5 #[i Storytelling]

@@ -18,7 +18,7 @@
       span.r--3 se usa un conjunto de técnicas o herramientas que facilitan llegar a la historia, de una manera natural y cumpliendo el objetivo.  
       |Se sugiere partir del conocimiento y aplicación de saberes como gramática, sintaxis y tener claridad de las fases de la escritura y hacer ejercicios para afianzar cada una de ellas:  elaborar la idea inicial, hacer un borrador de varias ideas anexas, escribir técnicamente, hacer una revisión y ajustar o reescribir el texto.  
     .row.justify-content-center
-      .col-lg-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema2/2.jpg', alt='')
+      .col-lg-4.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema2/2.jpg', alt='')
       .col-lg-8
         .cajon.color-primario(style='background-color: #FFD667').p-4.mb-4
           p.mb-0 La creatividad está asociada a la fluidez y flexibilidad en la escritura demostrada en la capacidad de planificar el escrito para lo cual debe partir de un listado de ideas para jerarquizar de acuerdo con las variables como intención o población objetivo. 
@@ -27,7 +27,7 @@
           br
           |Este momento necesita de originalidad y paciencia en la redefinición permanente y ajustes de acuerdo con factores como claridad y concisión. La corrección es una acción permanente en un escrito, reescribir y estar en ese proceso cíclico ayuda a tener un documento de calidad.
     .row.justify-content-center.mb-5
-      .col-lg-1.col-6: img(src='@/assets/curso/temas/tema2/3.svg', alt='')
+      .col-lg-1.col-3.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema2/3.svg', alt='')
 
       .col-lg-11
         p En el proceso de la escritura creativa se presentan inconvenientes que van desde el desconocimiento de las técnicas escriturales hasta el bloqueo de ideas por falta de claridad en el tema y otros aspectos.  
@@ -37,7 +37,7 @@
     ImagenInfografica.color-acento-botones.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema2/4.svg', alt='Texto que describa la imagen')
+          img(data-aos='zoom-in')(src='@/assets/curso/temas/tema2/4.svg', alt='Texto que describa la imagen')
       .tarjeta.p-3(x="28.3%" y="14.8%" numero="" style='background-color: #F3F9FF')
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 La hoja en blanco
@@ -68,21 +68,21 @@
         .cajon.color-secundario(style='background-color: #B7CEAC').p-4.mb-4
           p.mb-0 SEl objetivo es comunicar por medio del relato o de una serie de acontecimientos, historias que se compongan de un narrador, personajes, el espacio, escenario o ambiente, el relato y el estilo de narración.  Para desarrollar la historia casi siempre se inicia por la presentación de los personajes y el lugar donde se desarrollan los hechos y a continuación el desarrollo de los hechos en un nudo o momento de tensión que se cierra con el desenlace o fin de la historia, pero aun, así como su nombre lo indica en la creatividad siempre puede haber un estilo diferenciador o nuevo.
         p La narración se hace generalmente en tercera persona, sin embargo, se puede realizar en primera o segunda persona.  Igualmente, el narrador puede estar integrado o no entre los personajes.  La narración hace parte de la comunicación escrita y en diferentes tipos de diálogos relacionados con el teatro, el cine, las historietas y en los formatos televisivos en las telenovelas, modalidades de transmisión de contenido e información innovadoras del siglo XXI, en la que no se puede dejar a un lado lo concerniente al contenido para la #[i web] e #[i internet.]
-      .col-lg-4: img(src='@/assets/curso/temas/tema2/5.jpg' alt='')
+      .col-lg-4: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema2/5.jpg' alt='')
     .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
       h4.mb-0 Pensamiento visual y narrativa
-    .row.justify-content-center.mb-5
-      .col-lg-4.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema2/6.jpg', alt='')
+    .row.justify-content-center.mb-4
+      .col-lg-4.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema2/6.jpg', alt='')
       .col-lg-8
         p El siglo XXI trae consigo novedades en todas las disciplinas y saberes, donde la escritura no fue la excepción.  
-        .cajon.color-primario(style='background-color: #FFD667').p-4.mb-4
+        .cajon.color-primario(style='background-color: #FFD667').p-4.mb-3
           p.mb-0 El desarrollo de las artes con base en lo visual generó técnicas como el Pensamiento Visual o #[i Visual Thinking] que consiste en pasar las ideas a imágenes y gráficos para transmitir mensajes o manejar información.
-        p La representación de ideas y conceptos en gráficas, fotos e imágenes hace en curso dentro de las herramientas de aprendizaje más usadas y es común ver la propuesta en infografías, mapas de procesos, organizadores de información gráfica entre otros y afirman los expertos que ha calado porque es muy innato del ser humano en sus expresiones el interés por la imagen ya sea en video o estática.
+        p.mb-0 La representación de ideas y conceptos en gráficas, fotos e imágenes hace en curso dentro de las herramientas de aprendizaje más usadas y es común ver la propuesta en infografías, mapas de procesos, organizadores de información gráfica entre otros y afirman los expertos que ha calado porque es muy innato del ser humano en sus expresiones el interés por la imagen ya sea en video o estática.
           br
           br
           span.r--3 El pensamiento visual trae consigo otras herramientas como la Grabación Gráfica o #[i Graphic Recording] que ayudan a la sistematización o síntesis de la información con amplitud de opciones que, como el dibujo, la fotografía, el video, los audios, generan una gama de formas narrativas que exploran otras habilidades.
     .row.justify-content-center.mb-5
-      .col-lg-1.col-6: img(src='@/assets/curso/temas/tema2/3.svg', alt='')
+      .col-lg-1.col-3.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema2/3.svg', alt='')
 
       .col-lg-11
         p Transmitir ideas de forma dinámica, concisa y clara es un apoyo en el entorno educativo, artístico, comercial y permea los mensajes y la forma comunicativa de todas las generaciones flexibilizando el trabajo en equipo y los lenguajes, ya que está comprobado que el contenido digital genera motivación e impacta la mente humana haciendo parte de las nuevas propuestas de #[i marketing] y de otras actividades del ser humano.

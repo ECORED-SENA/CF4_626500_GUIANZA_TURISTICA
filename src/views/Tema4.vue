@@ -8,7 +8,7 @@
       h1 Técnicas de redacción creativa
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/1.jpg')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Para abordar las técnicas de redacción creativa, es importante primero poder abordar algunos conceptos, reglas y recomendaciones que nos permitirán tener un mejor desarrollo de los contenidos a redactar y las cuales desarrollaremos.
@@ -18,7 +18,7 @@
     .cajon.color-primario(style='background-color: #ffd667').p-4.mb-4
       p.mb-0 La gramática es lo que se define como las reglas ortográficas y que dan claridad y corrección a los textos o al habla. Y la semántica, es la que permite identificar los patrones lingüísticos, los temas y atributos del escrito permitiendo la simplificación de este y por ende la comprensión de lo que leemos o escuchamos.  Todos los idiomas cuentan con las reglas o instrucciones válidas para cada una, esta es la sintáctica y tiene que ver con el componente gramatical de escribir correctamente las palabras y al significado que le encontramos a este orden, se le define como semántica.
     .row.justify-content-center.mb-5
-      .col-lg-6: img(src='@/assets/curso/temas/tema4/2.jpg', alt='')
+      .col-lg-6.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema4/2.jpg', alt='')
       .col-lg-6 
         p.mb-5(data-aos='fade-right') 
           span.r--3 La semántica tiene dos componentes llamados denotación, es decir el significado de las palabras, el sentido de lo oficial que es evidente por el diccionario y el de connotación que dependerá del lenguaje coloquial o popular como parte de un costumbrismo.  Como la semántica se basa en estructuras lingüísticas puede tener conceptos asociados a la lógica, la cognición y por supuesto al lenguaje en donde la semántica es una cuestión de significado, definida por la sintaxis y la pragmática. 
@@ -51,11 +51,11 @@
           li
             i.vineta 
             | Estar al tanto de nuevas palabras y las que van en desuso o desaparecen, consultando siempre en la Real Academia Española (RAE)
-      .col-lg-6: img(src='@/assets/curso/temas/tema4/3.jpg', alt='')
+      .col-lg-6: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema4/3.jpg', alt='')
     .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
       h4.mb-0 Las normas ortográficas
     .row.justify-content-center.mb-5
-      .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema3/2.svg', alt='')
+      .col-lg-1.col-3.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema3/2.svg', alt='')
       .col-lg-11 
         p Corresponde a las correcciones para tener en cuenta en la escritura.  Estas reglas y su uso dan calidad y claridad textual. A continuación, veremos algunas de las normas básicas de la RAE para una ortografía básica para tener en cuenta.
           br
@@ -161,7 +161,7 @@
             td Beethoveniano, picassiano, taylorismo, shakespeariano, darwinista pero alzhéimer, boicot, jacuzzi, zepelín o zeppelin.
     .contenedor(style='background-color: #ffd667').p-4
       .row.justify-content-center.align-items-center
-        .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema4/5.svg', alt='')
+        .col-lg-1.col-3.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema4/5.svg', alt='')
         .col-lg-11 
           p.mb-0 Estas son sólo algunas normas extraídas de la última actualización en ortografía, publicada por la Real Academia Española en 2010. Para poder ver todas e información adicional sobre la ortografía te invitamos a revisar el material complementario relacionado a Técnicas de Redacción Creativa.
 

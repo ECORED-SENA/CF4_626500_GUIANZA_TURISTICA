@@ -1,14 +1,14 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.bg-tema-3.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
       h1 Texto narrativo creativo
     p.mb-5(data-aos='fade-right') Toda expresión escrita que tiene como esencia la creatividad e imaginación pertenece a la familia de la escritura creativa que cuenta con tres recursos narrativos:  descripción, secuencias de acción y diálogo.
     .row.justify-content-center.mb-5
-      .col-lg-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema3/1.jpg', alt='')
+      .col-lg-6.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema3/1.jpg', alt='')
       .col-lg-6
         p.mb-4 Las formas del texto narrativo que requieren creatividad son variadas, sin importar si se escriben en prosa o verso, cada una tiene espíritu propio, es decir, cuenta con características que la definen, entre ellas se enlistan:  
         ul.lista-ul--color.ms-5
@@ -42,7 +42,7 @@
         .cajon.color-primario(style='background-color: #FFD667 ').p-4.mb-4
           p.mb-0 Las historias pueden tener como base la estructura de alguno de los recursos anteriormente mencionados, en importante que el periodo creativo esté acompañado de inspiración y también de técnicas para su desarrollo. 
     .row.justify-content-center.mb-5
-      .col-lg-1.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema3/2.svg', alt='')
+      .col-lg-1.col-3.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema3/2.svg', alt='')
       .col-lg-11 
         p 
           span.r--3 El guía se motiva a la escritura con base en lecturas de historia, geografía, cultura y otros temas para que el guion o texto que necesite elaborar este acorde con el público objetivo y el contexto en donde va a ser relatada.
@@ -57,7 +57,7 @@
           br
           br
           |Los componentes de la narración los podemos ver a continuación, en la siguiente tabla:
-      .col-lg-6: img(src='@/assets/curso/temas/tema3/3.jpg', alt='')
+      .col-lg-6: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema3/3.jpg', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 1.
       span Componentes con narración

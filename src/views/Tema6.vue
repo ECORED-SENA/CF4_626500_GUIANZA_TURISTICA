@@ -51,15 +51,14 @@
       .col-lg-6: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema6/5.jpg', alt='')
     .cajon.color-primario.p-4.mb-4(style='background-color: #ffd667')
       p.mb-0 El manejo y uso de la información en la web cambia a medida que la seguridad se ha convertido en el factor más importante de la comunicación digital.  La protección de datos como práctica natural y normal del ejercicio de recopilar información de otro, es parte del reto de la comunicación en internet, por lo que hay que tener en cuenta cuando se recoge información por formularios digitales, tener en cuenta la legislación al tratamiento de datos e incluir anotaciones igualmente, aclarando las condiciones de este manejo;  pasa igual con fotografías, audios y videos con personas especialmente, menores de edad, la cual tiene una reglamentación estricta a tener en cuenta como la autorización de mayores responsables de los niños que firman autorización para que la imagen de ellos pueda ser publicada o divulgada abiertamente.
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-lg-6: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema6/6.jpg', alt='')
       .col-lg-6 
-        p(data-aos='fade-right') Las publicaciones por #[i Facebook Ads] o #[i Ad Manager] o lo relacionado con mejoramiento de las marcas y #[i marketing] digital mediado en canales como #[i YouTube, Twitter, Tik Tok, o Instagram], tienen condiciones de uso que deben ser conocidas para no contravenir las leyes, al usar texto en la #[i web] para promocionar productos o servicios empresariales, además de tener buena gramática la publicación debe ser apropiada a la audiencia y con alta credibilidad, también el dosificar la información es respetuoso con los usuarios, así como no utilizar lenguajes muy estilizados o con vocabulario de difícil comprensión.
+        p.mb-0(data-aos='fade-right') Las publicaciones por #[i Facebook Ads] o #[i Ad Manager] o lo relacionado con mejoramiento de las marcas y #[i marketing] digital mediado en canales como #[i YouTube, Twitter, Tik Tok, o Instagram], tienen condiciones de uso que deben ser conocidas para no contravenir las leyes, al usar texto en la #[i web] para promocionar productos o servicios empresariales, además de tener buena gramática la publicación debe ser apropiada a la audiencia y con alta credibilidad, también el dosificar la información es respetuoso con los usuarios, así como no utilizar lenguajes muy estilizados o con vocabulario de difícil comprensión.
           br
           br
           | El éxito de los mensajes también dependerá de usar los famosos mecanismos cerebrales que permite que el cliente potencial decida rápido por la compra u obtención de su interés, estos tips comunicativos se aplican con ejercicios que el diseñador del mensaje realiza teniendo en cuenta que los mensajes se basan en la comprensión del público objetivo. Es indispensable usar técnicas como #[i storytelling] o historias de la empresa y clientes, compartiendo experiencias como miedos, angustias, desafíos o conquistas que conectan con los clientes potenciales. 
-    .bg-gris.margin-n.p-5  
-      
+    .bg-gris.margin-n.px-5
       .row.justify-content-center.mb-4
         .col-lg-1.col-6.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema6/7.svg', alt='')  
         .col-lg-11

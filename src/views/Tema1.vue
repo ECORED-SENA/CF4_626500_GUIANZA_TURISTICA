@@ -17,11 +17,11 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/X3Cv9sKaYo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-9
         .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
           h3.mb-0 La comunicación escrita
-        p.mb-5(data-aos='fade-right') Una de las críticas más antiguas para abordar la escritura, es que las personas al escribir lo hacen igual a como hablan, se asume que es por falta de conocimiento y comprensión de las reglas de sintaxis, gramática y en general del lenguaje escrito que efectivamente necesita estudio y apropiación profunda.  
+        p(data-aos='fade-right') Una de las críticas más antiguas para abordar la escritura, es que las personas al escribir lo hacen igual a como hablan, se asume que es por falta de conocimiento y comprensión de las reglas de sintaxis, gramática y en general del lenguaje escrito que efectivamente necesita estudio y apropiación profunda.  
           br
           br
           | Las características de la comunicación escrita están referidas a: 
@@ -29,74 +29,74 @@
     .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.mb-4.mb-lg-0
             .tarjeta.bg-white.tarjeta-cuadro.p-5
               .tarjeta-cuadro__numero
                 .cuadro.px-3.py-2
                   h4.mb-0 1 
               p.mb-0.ms-3 Entre estas características, está el uso correcto de la ortografía, característica que no se usa en la comunicación oral.
-          .col-md-7
+          .col-lg-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/3.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.mb-4.mb-lg-0
             .tarjeta.bg-white.tarjeta-cuadro.p-5
               .tarjeta-cuadro__numero
                 .cuadro.px-3.py-2
                   h4.mb-0 2 
               p.mb-0.ms-3 La comunicación escrita requiere estrategias como la descripción detallada de roles, gestos o movimientos del cuerpo que son visibles en la comunicación oral. La misma sustituye a través de la acentuación y puntuación la tonalidad verbal en la comunicación oral.
-          .col-md-7
+          .col-lg-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/4.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.mb-4.mb-lg-0
             .tarjeta.bg-white.tarjeta-cuadro.p-5
               .tarjeta-cuadro__numero
                 .cuadro.px-3.py-2
                   h4.mb-0 3
               p.mb-0.ms-3 La comunicación escrita puede verse como limitación a la comunicación, esto, porque no todos saben leer o tienen un nivel de lectura literal pudiendo convertirse en una limitante.
 
-          .col-md-7
+          .col-lg-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/5.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.mb-4.mb-lg-0
             .tarjeta.bg-white.tarjeta-cuadro.p-5
               .tarjeta-cuadro__numero
                 .cuadro.px-3.py-2
                   h4.mb-0 4 
               p.mb-0.ms-3 Escribir requiere del escritor un conocimiento de léxico, sintáctica y semántica para hacerlo de forma eficaz.
-          .col-md-7
+          .col-lg-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/6.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.mb-4.mb-lg-0
             .tarjeta.bg-white.tarjeta-cuadro.p-5
               .tarjeta-cuadro__numero
                 .cuadro.px-3.py-2
                   h4.mb-0 5 
               p.mb-0.ms-3 La escritura debe hacerse de forma cohesiva y coherente, usando la planeación como herramienta, lo que pocos hacen.
-          .col-md-7
+          .col-lg-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/7.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.mb-4.mb-lg-0
             .tarjeta.bg-white.tarjeta-cuadro.p-5
               .tarjeta-cuadro__numero
                 .cuadro.px-3.py-2
                   h4.mb-0 6 
               p.mb-0.ms-3 Escribir es una acción exigente en el cumplimiento de normas y reglas que se deben seguir, aunque pocos son cuidadosos.
-          .col-md-7
+          .col-lg-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/8.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-lg-5.mb-4.mb-lg-0
             .tarjeta.bg-white.tarjeta-cuadro.p-5
               .tarjeta-cuadro__numero
                 .cuadro.px-3.py-2
                   h4.mb-0 7 
               p.mb-0.ms-3 La escritura tiene este carácter conservador convalidado por la Real Academia de la lengua, ya que lo que no esté aprobado por esta entidad, no existe en el lenguaje español.
-          .col-md-7
+          .col-lg-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/9.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
     p.mb-5(data-aos='fade-right') Por lo anterior se ratifica que estos aspectos son mayormente la talanquera para que las personas puedan expresarse con comunicación escrita.  No es imposible, la disciplina y el interés ayuda a mejorar la técnica escritural.
@@ -113,42 +113,42 @@
     .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3  Función referencial
               p.mb-0 Que define la relación entre mensaje y el objeto al que hace referencia.  Da significación a la información de manera objetiva, conceptual y lógica. 
           .col-md-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/12.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3 Función emotiva
               p.mb-0 Que da la relación entre el mensaje y el emisor correspondiendo a la expresividad de sentimientos, actitudes y emociones.
           .col-md-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/13.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3  Función conminativa
               p.mb-0 Que determina la relación entre el mensaje y el receptor en donde se espera una reacción de parte del último.
           .col-md-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/14.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3  Función estética
               p.mb-0 Determina la relación del mensaje consigo mismo como por ejemplo un poema.
           .col-md-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/15.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3  Función de contacto
               p.mb-0 Que establece el enlace comunicativo como un dispositivo que permite el flujo de palabras.
           .col-md-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/16.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3  Función metalingüística
               p.mb-0 Que consiste en parafrasear o explicar hechos usando conectores para sustentar ideas.
           .col-md-7
@@ -175,42 +175,42 @@
     .tarjeta.bg-slyder.p-5.mb-5
       SlyderA(tipo='b')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3  Texto descriptivo
               p.mb-0 Representa a lugares, fenómenos, personas o elementos por medio del lenguaje, enumerando sus partes, señalando, cualidades o condiciones.
           .col-md-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/20.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3  Texto narrativo
               p.mb-0 Narra, cuenta o relata un evento, algo que ocurre u ocurrió, en un núcleo espacial y temporal definido.
           .col-md-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/21.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3  Texto expositivo o explicativo
               p.mb-0 El objetivo de este tipo de texto es comunicar al lector sobre un asunto determinado.
           .col-md-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/22.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3 Texto argumentativo  
               p.mb-0 Pretende persuadir o emocionar al lector por medio del lenguaje, utilizando la retórica y el convencimiento.
           .col-md-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/23.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3  Texto científico y técnico
               p.mb-0 Se utiliza en la invención, investigación y difusión de la tecnología y la ciencia.
           .col-md-7
             figure
               img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/24.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
         .row
-          .col-md-5.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-lg-0
               h4.mb-3  Textos periodísticos
               p.mb-0 Comunican sobre hechos y asuntos de interés general y que se utilizan en la comunicación periodística. Utilizan políticamente lo correcto e influyen en la creación del   criterio público.
           .col-md-7
@@ -219,25 +219,25 @@
     p.mb-5(data-aos='fade-right') Dentro de los géneros o categorías que podemos encontrar dentro de la literatura tenemos:
     SlyderF.mb-5.slyder-100(columnas="col-lg-4 col-xl-4")
       .tarjeta-avatar
-        img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/26.svg' alt='AvatarTop' style='width: 235px')
+        img(src='@/assets/curso/temas/tema1/26.svg' alt='AvatarTop' style='width: 235px')
         .tarjeta(style='background-color: #FFEFC2').w-100
           .text-center.p-4.mt-5
             h4.text-center Género Narrativo
             p Que es la interpretación de un autor que la presenta en situaciones míticas, haciéndolas pasar por verdaderas o son verdaderas y él agrega algunos otros aspectos.
       .tarjeta-avatar
-        img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/27.svg' alt='AvatarTop' style='width: 235px')
+        img(src='@/assets/curso/temas/tema1/27.svg' alt='AvatarTop' style='width: 235px')
         .tarjeta(style='background-color: #FFEFC2').w-100
           .text-center.p-4.mt-5
             h4.text-center Género Lírico
             p Es la comunicación del autor de sus emociones, sentimientos o sensaciones, como en el poema.
       .tarjeta-avatar
-        img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/28.svg' alt='AvatarTop' style='width: 235px')
+        img(src='@/assets/curso/temas/tema1/28.svg' alt='AvatarTop' style='width: 235px')
         .tarjeta(style='background-color: #FFEFC2').w-100
           .text-center.p-4.mt-5
             h4.text-center Género Dramático
             p Relacionado directamente con el teatro, allí se representan en situaciones de conflicto o episodios de los actores que lo personifican y las interacciones entre ellos.
       .tarjeta-avatar
-        img(data-aos='zoom-in')(src='@/assets/curso/temas/tema1/29.svg' alt='AvatarTop' style='width: 235px')
+        img(src='@/assets/curso/temas/tema1/29.svg' alt='AvatarTop' style='width: 235px')
         .tarjeta(style='background-color: #FFEFC2').w-100
           .text-center.p-4.mt-5
             h4.text-center Género Didáctico

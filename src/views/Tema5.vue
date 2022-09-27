@@ -105,43 +105,43 @@
       .col-lg-6 
         SlyderF.mb-5.slyder-100(columnas="col-lg-6 col-xl-6")
           .tarjeta-avatar
-            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' style='width: 130px')
+            img(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Planear  rutina
           .tarjeta-avatar
-            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/6.svg' alt='AvatarTop' style='width: 130px')
+            img(src='@/assets/curso/temas/tema5/6.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Practicar, escribir a diario
           .tarjeta-avatar
-            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/7.svg' alt='AvatarTop' style='width: 130px')
+            img(src='@/assets/curso/temas/tema5/7.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Leer textos ejemplo
 
           .tarjeta-avatar
-            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/8.svg' alt='AvatarTop' style='width: 130px')
+            img(src='@/assets/curso/temas/tema5/8.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Escribir las ideas
           .tarjeta-avatar
-            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/9.svg' alt='AvatarTop' style='width: 130px')
+            img(src='@/assets/curso/temas/tema5/9.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Hacer una estructura antes de escribir
           .tarjeta-avatar
-            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/10.svg' alt='AvatarTop' style='width: 130px')
+            img(src='@/assets/curso/temas/tema5/10.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Utilizar figuras literarias
           .tarjeta-avatar
-            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/11.svg' alt='AvatarTop' style='width: 130px')
+            img(src='@/assets/curso/temas/tema5/11.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Escribir para llamar la atención del lector
           .tarjeta-avatar
-            img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/12.svg' alt='AvatarTop' style='width: 130px')
+            img(src='@/assets/curso/temas/tema5/12.svg' alt='AvatarTop' style='width: 130px')
             .tarjeta(style='background-color: #e1f3d7').w-100
               .text-center.p-4
                 h4.text-center Hacer proceso de empatía con la historia

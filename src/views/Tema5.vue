@@ -10,7 +10,7 @@
       .col-lg-6.mb-lg-0.mb-3
         .cajon.color-primario(style='background-color: #ffd667').p-4.mb-4
           p.mb-0 La escritura creativa es aquella que posee sus propias características y formas, ubicándose muy aparte de la escritura periodística, académica, técnica, o literaria. La escritura creativa es original y única, lo que hace que se aleje sustancialmente de las escrituras convencionales existentes.
-        p.mb-5(data-aos='fade-right') Esta escritura permite crear, inventar, y mostrar temas novedosos, que buscan cumplir con un objetivo, buscando a través de su originalidad captar la atención del receptor y causar en éste un efecto que lleve a la vivencia de momentos o generar experiencias. 
+        p.mb-5(data-aos='fade-right') Esta escritura permite crear, inventar, y mostrar temas novedosos, que buscan cumplir con un objetivo, buscando a través de su originalidad captar la atención del receptor y causar en este un efecto que lleve a la vivencia de momentos o generar experiencias. 
           br
           br
           | Veamos a continuación, varios elementos de la escritura creativa:
@@ -148,7 +148,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-3.mb-lg-0.mb-3
         img(data-aos='zoom-in')(src='@/assets/curso/temas/tema5/13.svg', alt='')
-      .col-lg-11 Cada técnica necesita de unas acciones concretas, en el caso de la escritura, debe seleccionarse el tiempo o una franja diaria, en un lugar con luz, ambiente cómodo y tener cerca lo que genera inspiración;  dicen los expertos que la practica hace al maestro, aprovechar los tiempos libres, escribir diariamente y usando normas gramaticales y estructuras semánticas es una ayuda para desarrollo de la habilidad;  igualmente, la lectura de textos de autores reconocidos y de los temas a escribir, ayuda a la estructuración semántica y creativa de fluidez. 
+      .col-lg-11 Cada técnica necesita de unas acciones concretas, en el caso de la escritura, debe seleccionarse el tiempo o una franja diaria, en un lugar con luz, ambiente cómodo y tener cerca lo que genera inspiración;  dicen los expertos que la práctica hace al maestro, aprovechar los tiempos libres, escribir diariamente y usando normas gramaticales y estructuras semánticas es una ayuda para desarrollo de la habilidad;  igualmente, la lectura de textos de autores reconocidos y de los temas a escribir, ayuda a la estructuración semántica y creativa de fluidez. 
     .row.justify-content-center.mb-5
       .col-lg-6
         p Depender de la inspiración puede ser poco efectivo, siempre tenga a mano una libreta y escriba ideas que ayuden a la elaboración del texto, igual, el ejercicio permanente de pensar y escribir genera la posibilidad de riqueza textual y variada; el plan de escritura y ordenamiento de un texto en una línea temporal y que permita definir el nudo o situaciones de la historia, esto dará coherencia y cohesión al texto.  La metáfora, paradoja, ironía entre otras figuras literarias le da belleza, sorpresa y pertinencia al escrito, evitar siempre los adjetivos o palabras exageradas o enfáticas que no aportan a la historia.
@@ -191,17 +191,17 @@
     p.mb-5(data-aos='fade-right') El #[i marketing] o técnicas para comercializar productos y servicios, hace parte de la creatividad y saberes que en el turismo se desarrollan habitualmente.  
       br
       br
-      |Los estudiosos del #[i marketing] y sus estrategias sobre contenidos recomiendan que al implementarlas los contenidos e imagen deben ser equilibrados, claros y de impacto para aprovechar las numerosas ventajas de la #[i internet], como:
+      |Los estudiosos del #[i marketing] y sus estrategias sobre contenidos recomiendan que al implementarlas los contenidos e imagen deben ser equilibrados, claros y de impacto para aprovechar las numerosas ventajas de la  internet, como:
     .row.justify-content-center.mb-5
       .col-lg-7
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta acordeon-inactivo"  )
           .div(titulo="Reconocimiento fácil de producto y servicios a ofrecer")
-            p La publicación en #[i internet] es el mejor aliado; servicios ofrecidos en una tienda virtual que funciona 24 horas, 7 días a la semana.   
+            p La publicación en  internet es el mejor aliado; servicios ofrecidos en una tienda virtual que funciona 24 horas, 7 días a la semana.   
               br
               br
               |Los contenidos para clientes potenciales y que demandan, conocen y buscan sobre sus intereses, deben encontrar en el espacio creado, las ventajas competitivas de lo ofrecido.
           .div(titulo="Posicionamiento y conquista de la autoridad en el mercado")
-            p La presencia en #[i Internet] permite dar visibilidad a un amplio público y ante la competencia; se necesita un portafolio de servicios y productos de la empresa ya sea propia o que sea un empleado.  
+            p La presencia en # Internet permite dar visibilidad a un amplio público y ante la competencia; se necesita un portafolio de servicios y productos de la empresa ya sea propia o que sea un empleado.  
               br
               br
               |Para convertirse en autoridad del mercado es indispensable, la buena imagen y la generación de confiabilidad de lo que allí se presenta e informa, lo que da el poder de negociación concretar las acciones de fidelizar el cliente efectivo y llegar al potencial con experiencias y calificación del servicio o producto, clave del mercadeo 
@@ -210,7 +210,7 @@
             p Los contenidos de mercadeo son costosos y generan gastos en papel y propaganda que, aunque es importante, generar alto valor económico.  
               br
               br
-              |El #[i marketing] por #[i internet] es una estrategia económica y que puede reducir costos de inversión en la comercialización. Parte de ser empresario o trabajar para una empresa, implica responsabilidad en el uso de los recursos ya sean financieros o materiales 
+              |El #[i marketing] por # internet es una estrategia económica y que puede reducir costos de inversión en la comercialización. Parte de ser empresario o trabajar para una empresa, implica responsabilidad en el uso de los recursos ya sean financieros o materiales 
 
           .div(titulo="Acelera el ciclo de ventas")
             p El tiempo que la empresa invierte entre contactar inicialmente al cliente,  hasta el cierre de la venta, y todo lo que acontece en ese espacio, son etapas de un ciclo de venta.
@@ -258,7 +258,7 @@
       .col-lg-8
         .cajon.color-primario(style='background-color:#ffd667 ').p-4.mb-4
           p El #[i storytelling], es una palabra del idioma inglés compuesta por: #[i “story”] que traduce historia y #[i “telling”], que traduce contar.  Varios autores concuerdan que es un arte que a través de la creación, descripción, desarrollo y adaptación de historias que se escriben con elementos de la narrativa como personajes, contextos o ambientes, nudo o conflicto y un mensaje o moraleja, cuentan con una estructura que presentan el inicio, medio y fin, de un relato, con el objetivo de enclavar un mensaje llevando a la conexión con el receptor, lector u oyente a nivel emocional, concepto que es propicio porque el guía, es un facilitador de experiencias.
-        p.mb-5(data-aos='fade-right') La originalidad o impronta personal de quien la realiza o sea el autor se deriva de la experiencia y la perspectiva con que éste la narra permitiendo que las buenas historias conduzcan al público a lo largo de una jornada y que ésta sea inolvidable.  
+        p.mb-5(data-aos='fade-right') La originalidad o impronta personal de quien la realiza o sea el autor se deriva de la experiencia y la perspectiva con que este la narra permitiendo que las buenas historias conduzcan al público a lo largo de una jornada y que esta sea inolvidable.  
           br
           br
           |Los elementos del #[i storytelling] como técnica de narrativa creativa son:  
@@ -269,7 +269,6 @@
       span Elementos del #[i storytelling]
     .tabla-a.tabla-editada.mb-5
       table
-        caption Leyenda de la tabla
         thead
           tr
             th(colspan='2') Elementos del #[i storytelling]

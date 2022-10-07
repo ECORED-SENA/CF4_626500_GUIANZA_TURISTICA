@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Derecho de autor
+      h1 Derechos de autor
     .bloque-texto-g.editado.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/1.jpg')})`}"
@@ -54,7 +54,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema6/6.jpg', alt='')
       .col-lg-6 
-        p.mb-0(data-aos='fade-right') Las publicaciones por #[i Facebook Ads] o #[i Ad Manager] o lo relacionado con mejoramiento de las marcas y #[i marketing] digital mediado en canales como #[i YouTube, Twitter, Tik Tok, o Instagram], tienen condiciones de uso que deben ser conocidas para no contravenir las leyes, al usar texto en la #[i web] para promocionar productos o servicios empresariales, además de tener buena gramática la publicación debe ser apropiada a la audiencia y con alta credibilidad, también el dosificar la información es respetuoso con los usuarios, así como no utilizar lenguajes muy estilizados o con vocabulario de difícil comprensión.
+        p.mb-0(data-aos='fade-right') Las publicaciones por  Facebook Ads o  Ad Manager o lo relacionado con mejoramiento de las marcas y #[i marketing] digital mediado en canales como  YouTube, Twitter, Tik Tok, o Instagram, tienen condiciones de uso que deben ser conocidas para no contravenir las leyes, al usar texto en la #[i web] para promocionar productos o servicios empresariales, además de tener buena gramática la publicación debe ser apropiada a la audiencia y con alta credibilidad, también el dosificar la información es respetuoso con los usuarios, así como no utilizar lenguajes muy estilizados o con vocabulario de difícil comprensión.
           br
           br
           | El éxito de los mensajes también dependerá de usar los famosos mecanismos cerebrales que permite que el cliente potencial decida rápido por la compra u obtención de su interés, estos tips comunicativos se aplican con ejercicios que el diseñador del mensaje realiza teniendo en cuenta que los mensajes se basan en la comprensión del público objetivo. Es indispensable usar técnicas como #[i storytelling] o historias de la empresa y clientes, compartiendo experiencias como miedos, angustias, desafíos o conquistas que conectan con los clientes potenciales. 
@@ -62,7 +62,7 @@
       .row.justify-content-center.mb-4
         .col-lg-1.col-6.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema6/7.svg', alt='')  
         .col-lg-11
-          p Los estilos de citación y referenciación están marcados por las normas APA, como anteriormente se afirmó, al hacer uso de información que se ha obtenido de otros autores, es ético, responsable y legal reconocerlo como referente. Por esta razón en la elaboración de un trabajos académicos o científicos se requiere de la inclusión de una bibliografía sistemática y estructurada, es la que se incluyen dos elementos fundamentales:
+          p Los estilos de citación y referenciación están marcados por las normas APA, como anteriormente se afirmó, al hacer uso de información que se ha obtenido de otros autores, es ético, responsable y legal reconocerlo como referente. Por esta razón en la elaboración de trabajos académicos o científicos se requiere de la inclusión de una bibliografía sistemática y estructurada, es la que se incluyen dos elementos fundamentales:
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
         h5 Figura 1. 
         span Elementos estructurados de citación autores

@@ -13,7 +13,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La comunicación se basa en la interacción entre el receptor, emisor, el mensaje y el canal con base en el diálogo oral, todo en un mismo contexto o escenario, pero como es sabido existe otro tipo de diálogo que encontramos en composiciones literaria como narraciones, cuentos, novelas, fábulas, obras de teatro, noticias entre otros, referidas al diálogo escrito el cual maneja variedad de recursos y una interacción diferente entre emisor y receptor, convirtiéndose en una relación escritor-lector y aunque se fundamenta en el mismo sistema lingüístico de la oralidad, sus características son diferentes.
+        p.mb-0 La comunicación se basa en la interacción entre el receptor, emisor, el mensaje y el canal con base en el diálogo oral, todo en un mismo contexto o escenario, pero como es sabido existe otro tipo de diálogo que encontramos en composiciones literarias como narraciones, cuentos, novelas, fábulas, obras de teatro, noticias entre otros, referidas al diálogo escrito el cual maneja variedad de recursos y una interacción diferente entre emisor y receptor, convirtiéndose en una relación escritor-lector y aunque se fundamenta en el mismo sistema lingüístico de la oralidad, sus características son diferentes.
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/X3Cv9sKaYo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -316,7 +316,7 @@
               img.mb-3(src='@/assets/curso/temas/tema1/37.svg', alt='' style='width: 67px')
               h4 Pirámide invertida
               p Técnica muy utilizada en el entorno periodístico o digital donde se hace una organización de la información de forma jerárquica donde el grueso de la información (base de la pirámide) se indica al principio para dejar de último los elementos en menor importancia (punta de la pirámide), al ir de más a menos.
-    p.mb-5(data-aos='fade-right') Si bien estas son sólo algunas e incluso las mismos pudiesen ser desarrollados en una escritura creativa, pero 
+    p.mb-5(data-aos='fade-right') Si bien estas son solo algunas e incluso las mismas pudiesen ser desarrollados en una escritura creativa, pero 
       span.r--3 han sido estas algunas de las técnicas tradicionales desarrolladas a través del tiempo por conocedores y neófitos de la escritura para la construcción de diferentes textos.
 
 

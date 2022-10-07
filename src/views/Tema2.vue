@@ -58,16 +58,16 @@
 
       .tarjeta.p-3(x="54.3%" y="47.5%" numero="" style='background-color: #F3F9FF')
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Historia sorpresa
-        p La historia sorpresa es grupal.  Un miembro del grupo con base en el objetivo escribe en papeletas temas, palabras o situaciones, colocándolas en una bolsa.  Cada participante saca una papeleta, tienen tres (3) minutos para contar la historia teniendo en cuenta:  inicio, nudo y desenlace.  Contar con grabadora y un apuntador tomando nota de las ideas que salgan del ejercicio.
+          h5 #[em Brainstorming]
+        p El Brainstorming o lluvia de ideas es una técnica grupal; de acuerdo con el objetivo cada participante expresa una idea de cómo puede hacerse un trabajo o escribir sobre situaciones, usando respuestas a preguntas motivadoras: ¿Qué pasó, cuando, que lo produjo?, ¿Quién…?
     .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
       h4.mb-0 Desarrollo de la creatividad narrativa
     p.mb-5(data-aos='fade-right') La narrativa se desarrolla de acuerdo con principios relacionados con la creatividad, los textos están escritos en prosa propiciando amplitud de la descripción detallada en la historia.  También, el verso, aunque menos usado, hace parte de la narrativa, aunque esta, limita la descripción. Pero es importante saber que es una habilidad que hay que entrenar y desarrollar a través del tiempo.
     .row.justify-content-center.mb-5
       .col-lg-8
         .cajon.color-secundario(style='background-color: #B7CEAC').p-4.mb-4
-          p.mb-0 SEl objetivo es comunicar por medio del relato o de una serie de acontecimientos, historias que se compongan de un narrador, personajes, el espacio, escenario o ambiente, el relato y el estilo de narración.  Para desarrollar la historia casi siempre se inicia por la presentación de los personajes y el lugar donde se desarrollan los hechos y a continuación el desarrollo de los hechos en un nudo o momento de tensión que se cierra con el desenlace o fin de la historia, pero aun, así como su nombre lo indica en la creatividad siempre puede haber un estilo diferenciador o nuevo.
-        p La narración se hace generalmente en tercera persona, sin embargo, se puede realizar en primera o segunda persona.  Igualmente, el narrador puede estar integrado o no entre los personajes.  La narración hace parte de la comunicación escrita y en diferentes tipos de diálogos relacionados con el teatro, el cine, las historietas y en los formatos televisivos en las telenovelas, modalidades de transmisión de contenido e información innovadoras del siglo XXI, en la que no se puede dejar a un lado lo concerniente al contenido para la #[i web] e #[i internet.]
+          p.mb-0 El objetivo es comunicar por medio del relato o de una serie de acontecimientos, historias que se compongan de un narrador, personajes, el espacio, escenario o ambiente, el relato y el estilo de narración.  Para desarrollar la historia casi siempre se inicia por la presentación de los personajes y el lugar donde se desarrollan los hechos y a continuación el desarrollo de los hechos en un nudo o momento de tensión que se cierra con el desenlace o fin de la historia, pero aun, así como su nombre lo indica en la creatividad siempre puede haber un estilo diferenciador o nuevo.
+        p La narración se hace generalmente en tercera persona, sin embargo, se puede realizar en primera o segunda persona.  Igualmente, el narrador puede estar integrado o no entre los personajes.  La narración hace parte de la comunicación escrita y en diferentes tipos de diálogos relacionados con el teatro, el cine, las historietas y en los formatos televisivos, en las telenovelas, modalidades de transmisión de contenido e información innovadoras del siglo XXI, en la que no se puede dejar a un lado lo concerniente al contenido para la #[i web] e #[i internet.]
       .col-lg-4: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema2/5.jpg' alt='')
     .tarjeta.color-primario.rounded-pill.p-3.d-inline-block.mb-5
       h4.mb-0 Pensamiento visual y narrativa

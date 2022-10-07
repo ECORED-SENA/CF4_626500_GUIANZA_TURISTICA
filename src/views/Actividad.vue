@@ -11,11 +11,11 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 El discurso eterno
-        p.mb-4  que un discurso puede realizarse con cierta facilidad, pero no siempre el decir algo, da propósito, utilidad y significado a lo que se dice.
+        p.mb-4  Identificar que un discurso puede realizarse con cierta facilidad, pero no siempre el decir algo, da propósito, utilidad y significado a lo que se dice.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Emparejamiento
+              p.fw-bold.mb-0 Opcion múltiple / Falso o verdadero 
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar

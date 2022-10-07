@@ -17,15 +17,15 @@
     p.mb-5(data-aos='fade-right') Igual que cualquier otro texto, la narración requiere del seguimiento de reglas y normas de gramática y semántica para darle calidad al producto creativo. 
     .cajon.color-primario(style='background-color: #ffd667').p-4.mb-4
       p.mb-0 La gramática es lo que se define como las reglas ortográficas y que dan claridad y corrección a los textos o al habla. Y la semántica, es la que permite identificar los patrones lingüísticos, los temas y atributos del escrito permitiendo la simplificación de este y por ende la comprensión de lo que leemos o escuchamos.  Todos los idiomas cuentan con las reglas o instrucciones válidas para cada una, esta es la sintáctica y tiene que ver con el componente gramatical de escribir correctamente las palabras y al significado que le encontramos a este orden, se le define como semántica.
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-3
       .col-lg-6.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema4/2.jpg', alt='')
       .col-lg-6 
         p.mb-5(data-aos='fade-right') 
           span.r--3 La semántica tiene dos componentes llamados denotación, es decir el significado de las palabras, el sentido de lo oficial que es evidente por el diccionario y el de connotación que dependerá del lenguaje coloquial o popular como parte de un costumbrismo.  Como la semántica se basa en estructuras lingüísticas puede tener conceptos asociados a la lógica, la cognición y por supuesto al lenguaje en donde la semántica es una cuestión de significado, definida por la sintaxis y la pragmática. 
           br 
           br
-          | Es importante de acuerdo con el idioma y el público objetivo, tener en cuenta las normas lingüísticas acompañadas de las técnicas de redacción hacen que el lenguaje oral o verbal, sea comprensible y cumpla con el objetivo comunicativo según la intención del mensaje.
-    p.mb-5(data-aos='fade-right') En las técnicas de redacción definir o caracterizar las diferencias entre narrar, exponer, argumentar, dialogar o resumir.  La precisión, la prudencia y la empatía son necesarias para el buen desarrollo de la escritura.  Para escribir mejor se debe empezar por obtener un alto nivel de lectura, lo cual se desarrolla con el hábito, además de esto, se debe tener en cuenta:
+          | Es importante de acuerdo con el idioma y el público objetivo, tener en cuenta que las normas lingüísticas acompañadas de las técnicas de redacción hacen que el lenguaje oral o verbal sea comprensible y cumpla con el objetivo comunicativo según la intención del mensaje.
+    p.mb-5(data-aos='fade-right') La precisión, la prudencia y la empatía son necesarias para el buen desarrollo de la escritura.  Para escribir mejor se debe empezar por obtener un alto nivel de lectura, lo cual se desarrolla con el hábito, además de esto, se debe tener en cuenta:
     .row.justify-content-center.mb-5
       .col-lg-6
         ul.lista-ul--color
@@ -60,7 +60,7 @@
         p Corresponde a las correcciones para tener en cuenta en la escritura.  Estas reglas y su uso dan calidad y claridad textual. A continuación, veremos algunas de las normas básicas de la RAE para una ortografía básica para tener en cuenta.
           br
           br
-          |Si bien hay muchas normas para conocer y desarrollar veamos a continuación algunas sobre acentuación y el uso de correcto de algunas letras, comencemos con las normas de acentuación:
+          |Si bien hay muchas normas para conocer y desarrollar, veamos a continuación algunas sobre acentuación y el uso correcto de algunas letras, comencemos con las normas de acentuación:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 2.
       span Normas de acentuación RAE (2010)
@@ -134,11 +134,11 @@
           tr
             td.text-center qa, qe, qi, qo, qu
             td.text-center Se recomienda cambiar las combinaciones qa, qe, qi, qo, qu en nombres comunes adaptados y macrotopónimos a ca, que, qui, co, cu, cuando tienen estos valores. En el resto de los nombres, se pueden conservar.
-            td Cuórum, exequátur, cuadrivio, cuark, cuásar, catarí Catar (se prefiere a Qatar) Al Qaeda
+            td Cuórum, execuátur, cuadrivio, cuark, cuásar, catarí Catar (se prefiere a Qatar) Al Qaeda
           tr
             td.text-center y final tras vocal 
             td.text-center Como norma general, se prefiere -ay, -ey, -oy, -uy en estos diptongos a final de palabra, aunque hay excepciones en préstamos donde se escribe -ai, -ei, -oi, -ui. Cuando ambas formas son válidas, se prefiere la mayoritaria en el uso.
-            td Carey, yóquey, tepuy, jagüey agnusdéi, saharaui bonsái, paipai, samurái, tipoy
+            td Carey, yóquey, tepuy, jagüey agnusdéi, saharaui bonsái, paipái, samurái, tipoy
           tr
             td.text-center y final tras consonante
             td.text-center Al adaptar extranjerismos que terminan en consonante + y, esta se transforma en i. También se escriben con i latina final los hipocorísticos.
@@ -146,11 +146,11 @@
           tr
             td.text-center y medial
             td.text-center En préstamos, y pasa a i cuando tiene este valor de vocal. Se recuerda que también se cambia al formar el plural de algunas palabras que terminan en vocal + y.
-            td Lycra, géiser, aimara gais, yoqueis, jerséis
+            td Licra, géiser, aimara gais, yoqueis, jerséis
           tr
             td.text-center ng final
             td.text-center Se recomienda suprimir la g final al adaptar palabras terminadas en -ng. El diccionario académico recoge como casos excepcionales fang, gong y yang.
-            td Cáterin, campin, casting, esmoquin, márquetin, piercing, parking, pudin o pudín
+            td Cáterin, campin, castin, esmoquin, márquetin, piercin, parquin, pudin o pudín
           tr
             td.text-center ps inicial
             td.text-center El uso culto sigue prefiriendo la grafía con ps- inicial, aunque en todos los casos se admiten las formas con s-.
@@ -158,12 +158,12 @@
           tr
             td.text-center Derivados de nombres propios
             td.text-center En los derivados de nombres propios se conservará la escritura del nombre del que procede. Esta norma no se aplica a los nombres comunes que han pasado a designar objetos, enfermedades, productos...
-            td Beethoveniano, picassiano, taylorismo, shakespeariano, darwinista pero alzhéimer, boicot, jacuzzi, zepelín o zeppelin.
+            td Beethoveniano, picassiano, taylorismo, shakespeariano, darwinista pero alzhéimer, boicot, yacusi, zepelín o zeppelin.
     .contenedor(style='background-color: #ffd667').p-4
       .row.justify-content-center.align-items-center
         .col-lg-1.col-3.mb-lg-0.mb-3: img(data-aos='zoom-in')(src='@/assets/curso/temas/tema4/5.svg', alt='')
         .col-lg-11 
-          p.mb-0 Estas son sólo algunas normas extraídas de la última actualización en ortografía, publicada por la Real Academia Española en 2010. Para poder ver todas e información adicional sobre la ortografía te invitamos a revisar el material complementario relacionado a Técnicas de Redacción Creativa.
+          p.mb-0 Estas son solo algunas normas extraídas de la última actualización en ortografía, publicada por la Real Academia Española en 2010. Para poder ver todas e información adicional sobre la ortografía te invitamos a revisar el material complementario relacionado a Técnicas de Redacción Creativa.
 
 
 

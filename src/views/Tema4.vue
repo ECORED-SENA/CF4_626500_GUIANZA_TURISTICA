@@ -24,8 +24,8 @@
           span.r--3 La semántica tiene dos componentes llamados denotación, es decir el significado de las palabras, el sentido de lo oficial que es evidente por el diccionario y el de connotación que dependerá del lenguaje coloquial o popular como parte de un costumbrismo.  Como la semántica se basa en estructuras lingüísticas puede tener conceptos asociados a la lógica, la cognición y por supuesto al lenguaje en donde la semántica es una cuestión de significado, definida por la sintaxis y la pragmática. 
           br 
           br
-          | Es importante de acuerdo con el idioma y el público objetivo, tener en cuenta que las normas lingüísticas acompañadas de las técnicas de redacción hacen que el lenguaje oral o verbal sea comprensible y cumpla con el objetivo comunicativo según la intención del mensaje.
-    p.mb-5(data-aos='fade-right') La precisión, la prudencia y la empatía son necesarias para el buen desarrollo de la escritura.  Para escribir mejor se debe empezar por obtener un alto nivel de lectura, lo cual se desarrolla con el hábito, además de esto, se debe tener en cuenta:
+          | En las técnicas de redacción definir o caracterizar, las diferencian entre narrar, exponer, argumentar, dialogar o resumir.
+    p.mb-5(data-aos='fade-right') En las técnicas de redacción definir o caracterizar, las diferencias entre narrar, exponer, argumentar, dialogar o resumir,  la precisión, la prudencia y la empatía son necesarias para el buen desarrollo de la escritura.  Para escribir mejor se debe empezar por obtener un alto nivel de lectura, lo cual se desarrolla con el hábito, además de esto, se debe tener en cuenta:
     .row.justify-content-center.mb-5
       .col-lg-6
         ul.lista-ul--color
@@ -117,19 +117,19 @@
             td Ala, ale, alacena, alelí, armonía, arpa, arpillera, atajo, boardilla, baraúnda, desarrapado, ológrafo, sabiondo, uy.
           tr
             td.text-center g, j
-            td.text-center En los préstamos en los que la g y la j tiene un sonido parecido al de y, se recomienda adaptar bien la pronunciación, bien la escritura.
+            td.text-center En los préstamos lingüísticos en los que la g y la j tiene un sonido parecido al de y, se recomienda adaptar bien la pronunciación, bien la escritura.
             td Banjo, júnior, mánager pronunciados [bánjo], [júnior], [mánajer] banyo, júnior, mánayer.
           tr
             td.text-center w
-            td.text-center Se admite la w en préstamos, letra que se considera preferible en las voces en las que su uso está asentado. Por tanto, no necesitan cursiva.
+            td.text-center Se admite la w en préstamos lingüísticos, letra que se considera preferible en las voces en las que su uso está asentado. Por tanto, no necesitan cursiva.
             td Kiwi, sándwich, web, wéstern, taiwanés, kuwaití.
           tr
             td.text-center k
-            td.text-center En préstamos, se prefiere conservar la k en las palabras que se usan mayoritariamente con ella.
+            td.text-center En préstamos lingüísticos, se prefiere conservar la k en las palabras que se usan mayoritariamente con ella.
             td Alaskeño, askenazi, bikini, euskera, harakiri, kamikaze, karst, kimono, kurdo, moka, musaka, póker, uzbeko Irak, Alaska, Marrakech, Pakistán.
           tr
             td.text-center c, qu
-            td.text-center En préstamos, se prefiere la forma adaptada con c o qu cuando es mayoritaria en el uso.
+            td.text-center En préstamos lingüísticos, se prefiere la forma adaptada con c o qu cuando es mayoritaria en el uso.
             td Caqui, cuáquero, iraquí, neoyorquino, polca, queroseno, quiosco, quiosquero, telequinesia, valquiria Tanganica, Turquestán
           tr
             td.text-center qa, qe, qi, qo, qu
@@ -145,7 +145,7 @@
             td Bodi, curri, ferri, panti, rali, sexi Mari, Cati, Toni, Dani
           tr
             td.text-center y medial
-            td.text-center En préstamos, y pasa a i cuando tiene este valor de vocal. Se recuerda que también se cambia al formar el plural de algunas palabras que terminan en vocal + y.
+            td.text-center En préstamos lingüísticos, y pasa a i cuando tiene este valor de vocal. Se recuerda que también se cambia al formar el plural de algunas palabras que terminan en vocal + y.
             td Licra, géiser, aimara gais, yoqueis, jerséis
           tr
             td.text-center ng final

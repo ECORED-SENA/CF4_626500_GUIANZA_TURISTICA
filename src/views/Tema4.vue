@@ -22,9 +22,7 @@
       .col-lg-6 
         p.mb-5(data-aos='fade-right') 
           span.r--3 La semántica tiene dos componentes llamados denotación, es decir el significado de las palabras, el sentido de lo oficial que es evidente por el diccionario y el de connotación que dependerá del lenguaje coloquial o popular como parte de un costumbrismo.  Como la semántica se basa en estructuras lingüísticas puede tener conceptos asociados a la lógica, la cognición y por supuesto al lenguaje en donde la semántica es una cuestión de significado, definida por la sintaxis y la pragmática. 
-          br 
-          br
-          | En las técnicas de redacción definir o caracterizar, las diferencian entre narrar, exponer, argumentar, dialogar o resumir.
+          
     p.mb-5(data-aos='fade-right') En las técnicas de redacción definir o caracterizar, las diferencias entre narrar, exponer, argumentar, dialogar o resumir,  la precisión, la prudencia y la empatía son necesarias para el buen desarrollo de la escritura.  Para escribir mejor se debe empezar por obtener un alto nivel de lectura, lo cual se desarrolla con el hábito, además de esto, se debe tener en cuenta:
     .row.justify-content-center.mb-5
       .col-lg-6

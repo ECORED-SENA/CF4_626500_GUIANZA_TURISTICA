@@ -201,7 +201,7 @@
               br
               |Los contenidos para clientes potenciales y que demandan, conocen y buscan sobre sus intereses, deben encontrar en el espacio creado, las ventajas competitivas de lo ofrecido.
           .div(titulo="Posicionamiento y conquista de la autoridad en el mercado")
-            p La presencia en # Internet permite dar visibilidad a un amplio público y ante la competencia; se necesita un portafolio de servicios y productos de la empresa ya sea propia o que sea un empleado.  
+            p La presencia en  Internet permite dar visibilidad a un amplio público y ante la competencia; se necesita un portafolio de servicios y productos de la empresa ya sea propia o que sea un empleado.  
               br
               br
               |Para convertirse en autoridad del mercado es indispensable, la buena imagen y la generación de confiabilidad de lo que allí se presenta e informa, lo que da el poder de negociación concretar las acciones de fidelizar el cliente efectivo y llegar al potencial con experiencias y calificación del servicio o producto, clave del mercadeo 

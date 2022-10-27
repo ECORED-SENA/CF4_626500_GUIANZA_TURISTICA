@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.074" y1="0.148" x2="0.806" y2="0.831" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="n4" transform="translate(-5.942 -5.942)">
+    <circle id="Elipse_7606" data-name="Elipse 7606" cx="30" cy="30" r="30" transform="translate(5.942 5.942)" fill="#406834"/>
+    <path id="Trazado_653911" data-name="Trazado 653911" d="M193.877,154.853l-23.542-23.542H162.4l-9.568,23.042v1.461l19.513,19.513A30,30,0,0,0,193.877,154.853Z" transform="translate(-129.249 -110.304)" opacity="0.49" fill="url(#linear-gradient)"/>
+    <path id="Trazado_653912" data-name="Trazado 653912" d="M177.547,155.81h-2.7v5.367h-7.675V155.81H152.834v-1.461l9.568-23.042h7.933l-7.4,17.811h4.777l1.752-6.578h5.382v6.579h2.7Z" transform="translate(-129.249 -110.3)" fill="#fff"/>
+  </g>
+</svg>

@@ -210,7 +210,7 @@
             p Los contenidos de mercadeo son costosos y generan gastos en papel y propaganda que, aunque es importante, generar alto valor económico.  
               br
               br
-              |El #[i marketing] por # internet es una estrategia económica y que puede reducir costos de inversión en la comercialización. Parte de ser empresario o trabajar para una empresa, implica responsabilidad en el uso de los recursos ya sean financieros o materiales 
+              |El #[i marketing] por internet es una estrategia económica y que puede reducir costos de inversión en la comercialización. Parte de ser empresario o trabajar para una empresa, implica responsabilidad en el uso de los recursos ya sean financieros o materiales 
 
           .div(titulo="Acelera el ciclo de ventas")
             p El tiempo que la empresa invierte entre contactar inicialmente al cliente,  hasta el cierre de la venta, y todo lo que acontece en ese espacio, son etapas de un ciclo de venta.
